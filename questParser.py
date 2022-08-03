@@ -1,6 +1,3 @@
-from quest import Quest
-
-import jsonpickle
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
 
@@ -19,36 +16,36 @@ def GetSoup(url):
 def ExtractQuestsFromTableList(quests, tbody):
     for tr in tbody.findAll('tr'):
         index = 0
-        quest = Quest()
+        quest = {}
         for td in tr.findAll('td'):
             match index:
                 case 0:
-                    quest.number = td.text.strip()
+                    quest["number"] = td.text.strip()
                 case 1:
-                    quest.name = td.text.strip()
-                    quest.href = td.next.attrs['href']
+                    quest["name"] = td.text.strip()
+                    quest["href"] = td.next.attrs["href"]
                 case 2:
-                    quest.difficulty = td.text.strip()
+                    quest["difficulty"] = td.text.strip()
                 case 3:
-                    quest.length = td.text.strip()
+                    quest["length"] = td.text.strip()
                 case 4:
-                    quest.questPoints = td.text.strip()
+                    quest["questPoints"] = td.text.strip()
                 case 5:
-                    quest.series = td.text.strip()
+                    quest["series"] = td.text.strip()
                 case 6:
-                    quest.releaseDate = td.text.strip()
+                    quest["releaseDate"] = td.text.strip()
             index += 1
-        quest.levelRequirements = {}
-        quest.experienceGranted = {}
-        if (hasattr(quest, 'href')):
-            quests[quest.href] = quest
+        quest["levelRequirements"] = {}
+        quest["experienceGranted"] = {}
+        if ("href" in quest):
+            quests[quest["href"]] = quest
 
 def GetXpRewardsForSkill(skillName, soup):
     el = soup.find(id=skill)
     tbody = el.find_next("tbody")
     for tr in tbody.findAll('tr'):
         index = 0
-        quest = ''
+        quest = None
         for td in tr.findAll('td'):
             match index:
                 case 0:
@@ -62,7 +59,7 @@ def GetXpRewardsForSkill(skillName, soup):
                         break
                     quest = quests[href]
                 case 1:
-                    quest.experienceGranted[skillName] = td.next
+                    quest["experienceGranted"][skillName] = td.next
                     break
             index += 1
 
@@ -94,7 +91,7 @@ for skill in skills:
         href = a.attrs["href"]
         if (href.endswith("_(quest)")):
             href = href[0:len(href) - len("_(quest)")]
-        quests[href].levelRequirements[skill] = level
+        quests[href]["levelRequirements"][skill] = level
 
 soup = GetSoup("https://oldschool.runescape.wiki/w/Quest_experience_rewards")
 
@@ -102,6 +99,9 @@ for skill in skills:
     GetXpRewardsForSkill(skill, soup)
 GetXpRewardsForSkill("Skill_choice", soup)
 
-questsJSON = jsonpickle.encode(quests)
-print(questsJSON)
-#print(quests)
+import json
+questsJSON = json.dumps(quests, indent=4, separators=(',', ': '))
+
+import io
+with io.open('quests.json', 'wt') as f:
+    f.write(questsJSON)

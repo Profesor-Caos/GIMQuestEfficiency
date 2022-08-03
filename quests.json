@@ -1,0 +1,2758 @@
+{
+    "/w/Romeo_%26_Juliet": {
+        "number": "4",
+        "name": "Romeo & Juliet",
+        "href": "/w/Romeo_%26_Juliet",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "5",
+        "series": "N/A",
+        "releaseDate": "4 January 2001",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Demon_Slayer": {
+        "number": "2",
+        "name": "Demon Slayer",
+        "href": "/w/Demon_Slayer",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "3",
+        "series": "Demon Slayer",
+        "releaseDate": "4 January 2001",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Shield_of_Arrav": {
+        "number": "6",
+        "name": "Shield of Arrav",
+        "href": "/w/Shield_of_Arrav",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "4 January 2001",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Ernest_the_Chicken": {
+        "number": "7",
+        "name": "Ernest the Chicken",
+        "href": "/w/Ernest_the_Chicken",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "4",
+        "series": "N/A",
+        "releaseDate": "21 January 2001",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Vampyre_Slayer": {
+        "number": "8",
+        "name": "Vampyre Slayer",
+        "href": "/w/Vampyre_Slayer",
+        "difficulty": "Intermediate",
+        "length": "Very Short",
+        "questPoints": "3",
+        "series": "N/A",
+        "releaseDate": "28 January 2001",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Attack": "4,825"
+        }
+    },
+    "/w/Imp_Catcher": {
+        "number": "9",
+        "name": "Imp Catcher",
+        "href": "/w/Imp_Catcher",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "16 February 2001",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Magic": "875"
+        }
+    },
+    "/w/Prince_Ali_Rescue": {
+        "number": "10",
+        "name": "Prince Ali Rescue",
+        "href": "/w/Prince_Ali_Rescue",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "3",
+        "series": "Kharidian",
+        "releaseDate": "28 February 2001",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Doric%27s_Quest": {
+        "number": "11",
+        "name": "Doric's Quest",
+        "href": "/w/Doric%27s_Quest",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "6 April 2001",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Mining": "1,300"
+        }
+    },
+    "/w/Black_Knights%27_Fortress": {
+        "number": "12",
+        "name": "Black Knights' Fortress",
+        "href": "/w/Black_Knights%27_Fortress",
+        "difficulty": "Intermediate",
+        "length": "Very Short",
+        "questPoints": "3",
+        "series": "N/A",
+        "releaseDate": "6 April 2001",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Witch%27s_Potion": {
+        "number": "13",
+        "name": "Witch's Potion",
+        "href": "/w/Witch%27s_Potion",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "6 April 2001",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Magic": "325"
+        }
+    },
+    "/w/Goblin_Diplomacy": {
+        "number": "15",
+        "name": "Goblin Diplomacy",
+        "href": "/w/Goblin_Diplomacy",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "5",
+        "series": "N/A",
+        "releaseDate": "8 May 2001",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Crafting": "200"
+        }
+    },
+    "/w/Pirate%27s_Treasure": {
+        "number": "16",
+        "name": "Pirate's Treasure",
+        "href": "/w/Pirate%27s_Treasure",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "11 June 2001",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Dragon_Slayer_I": {
+        "number": "17",
+        "name": "Dragon Slayer I",
+        "href": "/w/Dragon_Slayer_I",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Dragonkin",
+        "releaseDate": "23 September 2001",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Strength": "18,650",
+            "Defence": "18,650"
+        }
+    },
+    "/w/Rune_Mysteries": {
+        "number": "51",
+        "name": "Rune Mysteries",
+        "href": "/w/Rune_Mysteries",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Order of Wizards",
+        "releaseDate": "1 December 2003",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Misthalin_Mystery": {
+        "number": "129",
+        "name": "Misthalin Mystery",
+        "href": "/w/Misthalin_Mystery",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "26 January 2017",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Crafting": "600"
+        }
+    },
+    "/w/X_Marks_the_Spot": {
+        "number": "142",
+        "name": "X Marks the Spot",
+        "href": "/w/X_Marks_the_Spot",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "Great Kourend",
+        "releaseDate": "7 February 2019",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Below_Ice_Mountain": {
+        "number": "148",
+        "name": "Below Ice Mountain",
+        "href": "/w/Below_Ice_Mountain",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "14 April 2021",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Sheep_Shearer": {
+        "number": "5",
+        "name": "Sheep Shearer",
+        "href": "/w/Sheep_Shearer",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "4 January 2001",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Crafting": "150"
+        }
+    },
+    "/w/Cook%27s_Assistant": {
+        "number": "1",
+        "name": "Cook's Assistant",
+        "href": "/w/Cook%27s_Assistant",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "4 January 2001",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Cooking": "300"
+        }
+    },
+    "/w/The_Corsair_Curse": {
+        "number": "135",
+        "name": "The Corsair Curse",
+        "href": "/w/The_Corsair_Curse",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "7 December 2017",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/The_Knight%27s_Sword": {
+        "number": "14",
+        "name": "The Knight's Sword",
+        "href": "/w/The_Knight%27s_Sword",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "6 April 2001",
+        "levelRequirements": {
+            "Mining": "10"
+        },
+        "experienceGranted": {
+            "Smithing": "12,725"
+        }
+    },
+    "/w/The_Restless_Ghost": {
+        "number": "3",
+        "name": "The Restless Ghost",
+        "href": "/w/The_Restless_Ghost",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "4 January 2001",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Prayer": "1,125"
+        }
+    },
+    "/w/Druidic_Ritual": {
+        "number": "18",
+        "name": "Druidic Ritual",
+        "href": "/w/Druidic_Ritual",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "4",
+        "series": "N/A",
+        "releaseDate": "27 February 2002",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Herblore": "250"
+        }
+    },
+    "/w/Lost_City": {
+        "number": "19",
+        "name": "Lost City",
+        "href": "/w/Lost_City",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "3",
+        "series": "N/A",
+        "releaseDate": "27 February 2002",
+        "levelRequirements": {
+            "Crafting": "31",
+            "Woodcutting": "36"
+        },
+        "experienceGranted": {}
+    },
+    "/w/Witch%27s_House": {
+        "number": "20",
+        "name": "Witch's House",
+        "href": "/w/Witch%27s_House",
+        "difficulty": "Intermediate",
+        "length": "Very Short",
+        "questPoints": "4",
+        "series": "N/A",
+        "releaseDate": "27 February 2002",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Hitpoints": "6,325"
+        }
+    },
+    "/w/Merlin%27s_Crystal": {
+        "number": "21",
+        "name": "Merlin's Crystal",
+        "href": "/w/Merlin%27s_Crystal",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "6",
+        "series": "Camelot",
+        "releaseDate": "27 February 2002",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Heroes%27_Quest": {
+        "number": "22",
+        "name": "Heroes' Quest",
+        "href": "/w/Heroes%27_Quest",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "27 February 2002",
+        "levelRequirements": {
+            "Herblore": "25",
+            "Mining": "50",
+            "Fishing": "53",
+            "Cooking": "53"
+        },
+        "experienceGranted": {
+            "Attack": "3,075",
+            "Strength": "3,075",
+            "Defence": "3,075",
+            "Ranged": "2,075",
+            "Hitpoints": "3,075",
+            "Herblore": "1,325",
+            "Mining": "2,575",
+            "Smithing": "2,257",
+            "Fishing": "2,725",
+            "Cooking": "2,825",
+            "Firemaking": "1,575",
+            "Woodcutting": "1,575"
+        }
+    },
+    "/w/Scorpion_Catcher": {
+        "number": "23",
+        "name": "Scorpion Catcher",
+        "href": "/w/Scorpion_Catcher",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "25 March 2002",
+        "levelRequirements": {
+            "Prayer": "31"
+        },
+        "experienceGranted": {
+            "Strength": "6,625"
+        }
+    },
+    "/w/Family_Crest": {
+        "number": "24",
+        "name": "Family Crest",
+        "href": "/w/Family_Crest",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "9 April 2002",
+        "levelRequirements": {
+            "Magic": "59",
+            "Crafting": "40",
+            "Mining": "40",
+            "Smithing": "40"
+        },
+        "experienceGranted": {}
+    },
+    "/w/Fishing_Contest": {
+        "number": "26",
+        "name": "Fishing Contest",
+        "href": "/w/Fishing_Contest",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "28 May 2002",
+        "levelRequirements": {
+            "Fishing": "10"
+        },
+        "experienceGranted": {
+            "Fishing": "2,437"
+        }
+    },
+    "/w/Tribal_Totem": {
+        "number": "25",
+        "name": "Tribal Totem",
+        "href": "/w/Tribal_Totem",
+        "difficulty": "Intermediate",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "30 April 2002",
+        "levelRequirements": {
+            "Thieving": "21"
+        },
+        "experienceGranted": {
+            "Thieving": "1,775"
+        }
+    },
+    "/w/Monk%27s_Friend": {
+        "number": "27",
+        "name": "Monk's Friend",
+        "href": "/w/Monk%27s_Friend",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "28 May 2002",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Woodcutting": "2,000"
+        }
+    },
+    "/w/Temple_of_Ikov": {
+        "number": "28",
+        "name": "Temple of Ikov",
+        "href": "/w/Temple_of_Ikov",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Mahjarrat",
+        "releaseDate": "17 June 2002",
+        "levelRequirements": {
+            "Ranged": "40",
+            "Thieving": "42"
+        },
+        "experienceGranted": {
+            "Ranged": "10,500",
+            "Fletching": "8,000"
+        }
+    },
+    "/w/Clock_Tower": {
+        "number": "29",
+        "name": "Clock Tower",
+        "href": "/w/Clock_Tower",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "17 June 2002",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Holy_Grail": {
+        "number": "30",
+        "name": "Holy Grail",
+        "href": "/w/Holy_Grail",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "Camelot",
+        "releaseDate": "23 July 2002",
+        "levelRequirements": {
+            "Attack": "20"
+        },
+        "experienceGranted": {
+            "Defence": "15,300",
+            "Prayer": "11,000"
+        }
+    },
+    "/w/Tree_Gnome_Village": {
+        "number": "31",
+        "name": "Tree Gnome Village",
+        "href": "/w/Tree_Gnome_Village",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "23 July 2002",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Attack": "11,450"
+        }
+    },
+    "/w/Fight_Arena": {
+        "number": "32",
+        "name": "Fight Arena",
+        "href": "/w/Fight_Arena",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "Mahjarrat",
+        "releaseDate": "23 July 2002",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Attack": "12,175",
+            "Thieving": "2,175"
+        }
+    },
+    "/w/Hazeel_Cult": {
+        "number": "33",
+        "name": "Hazeel Cult",
+        "href": "/w/Hazeel_Cult",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "Mahjarrat",
+        "releaseDate": "15 August 2002",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Thieving": "1,500"
+        }
+    },
+    "/w/Sheep_Herder": {
+        "number": "34",
+        "name": "Sheep Herder",
+        "href": "/w/Sheep_Herder",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "4",
+        "series": "N/A",
+        "releaseDate": "15 August 2002",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Plague_City": {
+        "number": "35",
+        "name": "Plague City",
+        "href": "/w/Plague_City",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "Elf",
+        "releaseDate": "27 August 2002",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Mining": "2,425"
+        }
+    },
+    "/w/Sea_Slug": {
+        "number": "36",
+        "name": "Sea Slug",
+        "href": "/w/Sea_Slug",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Temple Knight",
+        "releaseDate": "9 September 2002",
+        "levelRequirements": {
+            "Firemaking": "30"
+        },
+        "experienceGranted": {
+            "Fishing": "7,175"
+        }
+    },
+    "/w/Waterfall_Quest": {
+        "number": "37",
+        "name": "Waterfall Quest",
+        "href": "/w/Waterfall_Quest",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "24 September 2002",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Attack": "13,750",
+            "Strength": "13,750"
+        }
+    },
+    "/w/Jungle_Potion": {
+        "number": "39",
+        "name": "Jungle Potion",
+        "href": "/w/Jungle_Potion",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "23 October 2002",
+        "levelRequirements": {
+            "Herblore": "3"
+        },
+        "experienceGranted": {
+            "Herblore": "775"
+        }
+    },
+    "/w/The_Grand_Tree": {
+        "number": "40",
+        "name": "The Grand Tree",
+        "href": "/w/The_Grand_Tree",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "5",
+        "series": "Gnome",
+        "releaseDate": "12 December 2002",
+        "levelRequirements": {
+            "Agility": "25"
+        },
+        "experienceGranted": {
+            "Attack": "18,400",
+            "Magic": "2,150",
+            "Agility": "7,900"
+        }
+    },
+    "/w/Underground_Pass": {
+        "number": "42",
+        "name": "Underground Pass",
+        "href": "/w/Underground_Pass",
+        "difficulty": "Experienced",
+        "length": "Long",
+        "questPoints": "5",
+        "series": "Elf",
+        "releaseDate": "3 March 2003",
+        "levelRequirements": {
+            "Ranged": "25"
+        },
+        "experienceGranted": {
+            "Attack": "3,000",
+            "Agility": "3,000"
+        }
+    },
+    "/w/Observatory_Quest": {
+        "number": "43",
+        "name": "Observatory Quest",
+        "href": "/w/Observatory_Quest",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "17 March 2003",
+        "levelRequirements": {
+            "Crafting": "10"
+        },
+        "experienceGranted": {
+            "Crafting": "2,250"
+        }
+    },
+    "/w/The_Tourist_Trap": {
+        "number": "44",
+        "name": "The Tourist Trap",
+        "href": "/w/The_Tourist_Trap",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "14 April 2003",
+        "levelRequirements": {
+            "Fletching": "10",
+            "Smithing": "20"
+        },
+        "experienceGranted": {}
+    },
+    "/w/Watchtower": {
+        "number": "45",
+        "name": "Watchtower",
+        "href": "/w/Watchtower",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "4",
+        "series": "N/A",
+        "releaseDate": "7 May 2003",
+        "levelRequirements": {
+            "Magic": "14",
+            "Agility": "25",
+            "Herblore": "14",
+            "Thieving": "15",
+            "Mining": "40"
+        },
+        "experienceGranted": {
+            "Magic": "15,250"
+        }
+    },
+    "/w/Dwarf_Cannon": {
+        "number": "46",
+        "name": "Dwarf Cannon",
+        "href": "/w/Dwarf_Cannon",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "27 May 2003",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Crafting": "750"
+        }
+    },
+    "/w/Murder_Mystery": {
+        "number": "47",
+        "name": "Murder Mystery",
+        "href": "/w/Murder_Mystery",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "3",
+        "series": "N/A",
+        "releaseDate": "9 June 2003",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Crafting": "1,406"
+        }
+    },
+    "/w/The_Dig_Site": {
+        "number": "48",
+        "name": "The Dig Site",
+        "href": "/w/The_Dig_Site",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Mahjarrat",
+        "releaseDate": "9 July 2003",
+        "levelRequirements": {
+            "Agility": "10",
+            "Herblore": "10",
+            "Thieving": "25"
+        },
+        "experienceGranted": {
+            "Herblore": "2,000",
+            "Mining": "15,300"
+        }
+    },
+    "/w/Gertrude%27s_Cat": {
+        "number": "49",
+        "name": "Gertrude's Cat",
+        "href": "/w/Gertrude%27s_Cat",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "28 July 2003",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Cooking": "1,525"
+        }
+    },
+    "/w/Legends%27_Quest": {
+        "number": "50",
+        "name": "Legends' Quest",
+        "href": "/w/Legends%27_Quest",
+        "difficulty": "Master",
+        "length": "Long",
+        "questPoints": "4",
+        "series": "N/A",
+        "releaseDate": "20 August 2003",
+        "levelRequirements": {
+            "Strength": "50",
+            "Prayer": "42",
+            "Magic": "56",
+            "Agility": "50",
+            "Herblore": "45",
+            "Thieving": "50",
+            "Crafting": "50",
+            "Mining": "52",
+            "Smithing": "50",
+            "Woodcutting": "50"
+        },
+        "experienceGranted": {}
+    },
+    "/w/Death_Plateau": {
+        "number": "56",
+        "name": "Death Plateau",
+        "href": "/w/Death_Plateau",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Troll",
+        "releaseDate": "9 August 2004",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Attack": "3,000"
+        }
+    },
+    "/w/Eadgar%27s_Ruse": {
+        "number": "60",
+        "name": "Eadgar's Ruse",
+        "href": "/w/Eadgar%27s_Ruse",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Troll",
+        "releaseDate": "5 October 2004",
+        "levelRequirements": {
+            "Herblore": "31"
+        },
+        "experienceGranted": {
+            "Herblore": "11,000"
+        }
+    },
+    "/w/Big_Chompy_Bird_Hunting": {
+        "number": "52",
+        "name": "Big Chompy Bird Hunting",
+        "href": "/w/Big_Chompy_Bird_Hunting",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "18 May 2004",
+        "levelRequirements": {
+            "Ranged": "30",
+            "Fletching": "5",
+            "Cooking": "30"
+        },
+        "experienceGranted": {
+            "Ranged": "735",
+            "Fletching": "262",
+            "Cooking": "1,470"
+        }
+    },
+    "/w/Elemental_Workshop_I": {
+        "number": "53",
+        "name": "Elemental Workshop I",
+        "href": "/w/Elemental_Workshop_I",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Elemental Workshop",
+        "releaseDate": "2 June 2004",
+        "levelRequirements": {
+            "Crafting": "20",
+            "Mining": "20",
+            "Smithing": "20"
+        },
+        "experienceGranted": {
+            "Crafting": "5,000",
+            "Smithing": "5,000"
+        }
+    },
+    "/w/Nature_Spirit": {
+        "number": "55",
+        "name": "Nature Spirit",
+        "href": "/w/Nature_Spirit",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "13 July 2004",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Defence": "2,000",
+            "Hitpoints": "2,000",
+            "Crafting": "3,000"
+        }
+    },
+    "/w/Priest_in_Peril": {
+        "number": "54",
+        "name": "Priest in Peril",
+        "href": "/w/Priest_in_Peril",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Myreque",
+        "releaseDate": "29 June 2004",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Prayer": "1,406"
+        }
+    },
+    "/w/Regicide": {
+        "number": "59",
+        "name": "Regicide",
+        "href": "/w/Regicide",
+        "difficulty": "Experienced",
+        "length": "Long",
+        "questPoints": "3",
+        "series": "Elf",
+        "releaseDate": "20 September 2004",
+        "levelRequirements": {
+            "Agility": "56"
+        },
+        "experienceGranted": {
+            "Agility": "13,750"
+        }
+    },
+    "/w/Tai_Bwo_Wannai_Trio": {
+        "number": "58",
+        "name": "Tai Bwo Wannai Trio",
+        "href": "/w/Tai_Bwo_Wannai_Trio",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "14 September 2004",
+        "levelRequirements": {
+            "Agility": "15",
+            "Fishing": "5",
+            "Cooking": "30"
+        },
+        "experienceGranted": {
+            "Attack": "2,500",
+            "Strength": "2,500",
+            "Fishing": "5,000",
+            "Cooking": "5,000"
+        }
+    },
+    "/w/Troll_Stronghold": {
+        "number": "57",
+        "name": "Troll Stronghold",
+        "href": "/w/Troll_Stronghold",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Troll",
+        "releaseDate": "24 August 2004",
+        "levelRequirements": {
+            "Agility": "15"
+        },
+        "experienceGranted": {}
+    },
+    "/w/Shades_of_Mort%27ton": {
+        "number": "61",
+        "name": "Shades of Mort'ton",
+        "href": "/w/Shades_of_Mort%27ton",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "3",
+        "series": "N/A",
+        "releaseDate": "18 October 2004",
+        "levelRequirements": {
+            "Herblore": "15",
+            "Crafting": "20",
+            "Firemaking": "5"
+        },
+        "experienceGranted": {
+            "Herblore": "2,000",
+            "Crafting": "2,000"
+        }
+    },
+    "/w/The_Fremennik_Trials": {
+        "number": "62",
+        "name": "The Fremennik Trials",
+        "href": "/w/The_Fremennik_Trials",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "3",
+        "series": "Fremennik",
+        "releaseDate": "2 November 2004",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Attack": "2,812",
+            "Strength": "2,812",
+            "Defence": "2,812",
+            "Hitpoints": "2,812",
+            "Agility": "2,812",
+            "Thieving": "2,812",
+            "Crafting": "2,812",
+            "Fletching": "2,812",
+            "Fishing": "2,812",
+            "Woodcutting": "2,812"
+        }
+    },
+    "/w/Horror_from_the_Deep": {
+        "number": "63",
+        "name": "Horror from the Deep",
+        "href": "/w/Horror_from_the_Deep",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "17 November 2004",
+        "levelRequirements": {
+            "Agility": "35"
+        },
+        "experienceGranted": {
+            "Strength": "4,662.5",
+            "Ranged": "4,662.5",
+            "Magic": "4,662"
+        }
+    },
+    "/w/Throne_of_Miscellania": {
+        "number": "64",
+        "name": "Throne of Miscellania",
+        "href": "/w/Throne_of_Miscellania",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Miscellania",
+        "releaseDate": "29 November 2004",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Monkey_Madness_I": {
+        "number": "65",
+        "name": "Monkey Madness I",
+        "href": "/w/Monkey_Madness_I",
+        "difficulty": "Master",
+        "length": "Long",
+        "questPoints": "3",
+        "series": "Gnome",
+        "releaseDate": "6 December 2004",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Haunted_Mine": {
+        "number": "66",
+        "name": "Haunted Mine",
+        "href": "/w/Haunted_Mine",
+        "difficulty": "Experienced",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "21 December 2004",
+        "levelRequirements": {
+            "Crafting": "35"
+        },
+        "experienceGranted": {
+            "Strength": "22,000"
+        }
+    },
+    "/w/Troll_Romance": {
+        "number": "67",
+        "name": "Troll Romance",
+        "href": "/w/Troll_Romance",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "5 January 2005",
+        "levelRequirements": {
+            "Agility": "28"
+        },
+        "experienceGranted": {
+            "Strength": "4,000",
+            "Agility": "8,000"
+        }
+    },
+    "/w/In_Search_of_the_Myreque": {
+        "number": "68",
+        "name": "In Search of the Myreque",
+        "href": "/w/In_Search_of_the_Myreque",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "Myreque",
+        "releaseDate": "10 January 2005",
+        "levelRequirements": {
+            "Agility": "25"
+        },
+        "experienceGranted": {
+            "Attack": "600",
+            "Strength": "600",
+            "Defence": "600",
+            "Hitpoints": "600",
+            "Crafting": "600"
+        }
+    },
+    "/w/Creature_of_Fenkenstrain": {
+        "number": "69",
+        "name": "Creature of Fenkenstrain",
+        "href": "/w/Creature_of_Fenkenstrain",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "31 January 2005",
+        "levelRequirements": {
+            "Thieving": "25",
+            "Crafting": "20"
+        },
+        "experienceGranted": {
+            "Thieving": "1,000"
+        }
+    },
+    "/w/Roving_Elves": {
+        "number": "70",
+        "name": "Roving Elves",
+        "href": "/w/Roving_Elves",
+        "difficulty": "Experienced",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Elf",
+        "releaseDate": "7 February 2005",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Strength": "10,000"
+        }
+    },
+    "/w/Ghosts_Ahoy": {
+        "number": "71",
+        "name": "Ghosts Ahoy",
+        "href": "/w/Ghosts_Ahoy",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "15 February 2005",
+        "levelRequirements": {
+            "Agility": "25",
+            "Cooking": "20"
+        },
+        "experienceGranted": {
+            "Prayer": "2,400"
+        }
+    },
+    "/w/One_Small_Favour": {
+        "number": "72",
+        "name": "One Small Favour",
+        "href": "/w/One_Small_Favour",
+        "difficulty": "Experienced",
+        "length": "Long",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "28 February 2005",
+        "levelRequirements": {
+            "Agility": "36",
+            "Herblore": "18",
+            "Crafting": "25",
+            "Smithing": "30"
+        },
+        "experienceGranted": {}
+    },
+    "/w/Mountain_Daughter": {
+        "number": "73",
+        "name": "Mountain Daughter",
+        "href": "/w/Mountain_Daughter",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "7 March 2005",
+        "levelRequirements": {
+            "Agility": "20"
+        },
+        "experienceGranted": {
+            "Attack": "1,000",
+            "Prayer": "2,000"
+        }
+    },
+    "/w/Between_a_Rock...": {
+        "number": "74",
+        "name": "Between a Rock...",
+        "href": "/w/Between_a_Rock...",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "21 March 2005",
+        "levelRequirements": {
+            "Defence": "30",
+            "Mining": "40",
+            "Smithing": "50"
+        },
+        "experienceGranted": {
+            "Defence": "5,000",
+            "Mining": "5,000",
+            "Smithing": "5,000"
+        }
+    },
+    "/w/The_Feud": {
+        "number": "75",
+        "name": "The Feud",
+        "href": "/w/The_Feud",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "4 April 2005",
+        "levelRequirements": {
+            "Thieving": "30"
+        },
+        "experienceGranted": {
+            "Thieving": "15,000"
+        }
+    },
+    "/w/The_Golem": {
+        "number": "76",
+        "name": "The Golem",
+        "href": "/w/The_Golem",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "11 April 2005",
+        "levelRequirements": {
+            "Thieving": "25",
+            "Crafting": "20"
+        },
+        "experienceGranted": {
+            "Thieving": "1,000",
+            "Crafting": "1,000"
+        }
+    },
+    "/w/Desert_Treasure": {
+        "number": "77",
+        "name": "Desert Treasure",
+        "href": "/w/Desert_Treasure",
+        "difficulty": "Master",
+        "length": "Long",
+        "questPoints": "3",
+        "series": "Mahjarrat",
+        "releaseDate": "18 April 2005",
+        "levelRequirements": {
+            "Magic": "50",
+            "Thieving": "53",
+            "Slayer": "10",
+            "Firemaking": "50"
+        },
+        "experienceGranted": {
+            "Magic": "20,000"
+        }
+    },
+    "/w/Icthlarin%27s_Little_Helper": {
+        "number": "78",
+        "name": "Icthlarin's Little Helper",
+        "href": "/w/Icthlarin%27s_Little_Helper",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Kharidian",
+        "releaseDate": "26 April 2005",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Agility": "4,000",
+            "Thieving": "4,500",
+            "Woodcutting": "4,000"
+        }
+    },
+    "/w/Tears_of_Guthix": {
+        "number": "79",
+        "name": "Tears of Guthix",
+        "href": "/w/Tears_of_Guthix",
+        "difficulty": "Intermediate",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "4 May 2005",
+        "levelRequirements": {
+            "Crafting": "20",
+            "Mining": "20",
+            "Firemaking": "49"
+        },
+        "experienceGranted": {
+            "Crafting": "1,000"
+        }
+    },
+    "/w/The_Lost_Tribe": {
+        "number": "81",
+        "name": "The Lost Tribe",
+        "href": "/w/The_Lost_Tribe",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Dorgeshuun",
+        "releaseDate": "31 May 2005",
+        "levelRequirements": {
+            "Agility": "13",
+            "Thieving": "13",
+            "Mining": "17"
+        },
+        "experienceGranted": {
+            "Mining": "3,000"
+        }
+    },
+    "/w/The_Giant_Dwarf": {
+        "number": "82",
+        "name": "The Giant Dwarf",
+        "href": "/w/The_Giant_Dwarf",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Red Axe",
+        "releaseDate": "31 May 2005",
+        "levelRequirements": {
+            "Magic": "33",
+            "Thieving": "14",
+            "Crafting": "12",
+            "Firemaking": "16"
+        },
+        "experienceGranted": {
+            "Magic": "1,500",
+            "Thieving": "1,500",
+            "Crafting": "2,500",
+            "Mining": "2,500",
+            "Smithing": "2,500",
+            "Firemaking": "1,500"
+        }
+    },
+    "/w/Recruitment_Drive": {
+        "number": "83",
+        "name": "Recruitment Drive",
+        "href": "/w/Recruitment_Drive",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Temple Knight",
+        "releaseDate": "27 June 2005",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Prayer": "1,000",
+            "Agility": "1,000",
+            "Herblore": "1,000"
+        }
+    },
+    "/w/Mourning%27s_End_Part_I": {
+        "number": "84",
+        "name": "Mourning's End Part I",
+        "href": "/w/Mourning%27s_End_Part_I",
+        "difficulty": "Master",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Elf",
+        "releaseDate": "19 July 2005",
+        "levelRequirements": {
+            "Ranged": "60",
+            "Thieving": "50"
+        },
+        "experienceGranted": {
+            "Hitpoints": "25,000",
+            "Thieving": "25,000"
+        }
+    },
+    "/w/Forgettable_Tale...": {
+        "number": "85",
+        "name": "Forgettable Tale...",
+        "href": "/w/Forgettable_Tale...",
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "questPoints": "2",
+        "series": "Red Axe",
+        "releaseDate": "26 July 2005",
+        "levelRequirements": {
+            "Cooking": "22",
+            "Farming": "17"
+        },
+        "experienceGranted": {
+            "Cooking": "5,000",
+            "Farming": "5,000",
+            "Skill_choice": "5,000"
+        }
+    },
+    "/w/Garden_of_Tranquillity": {
+        "number": "86",
+        "name": "Garden of Tranquillity",
+        "href": "/w/Garden_of_Tranquillity",
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "30 August 2005",
+        "levelRequirements": {
+            "Farming": "25"
+        },
+        "experienceGranted": {
+            "Farming": "5,000",
+            "Skill_choice": "5,000"
+        }
+    },
+    "/w/A_Tail_of_Two_Cats": {
+        "number": "87",
+        "name": "A Tail of Two Cats",
+        "href": "/w/A_Tail_of_Two_Cats",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Dragonkin",
+        "releaseDate": "26 September 2005",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Wanted!": {
+        "number": "88",
+        "name": "Wanted!",
+        "href": "/w/Wanted!",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Temple Knight",
+        "releaseDate": "17 October 2005",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Slayer": "5,000"
+        }
+    },
+    "/w/Mourning%27s_End_Part_II": {
+        "number": "89",
+        "name": "Mourning's End Part II",
+        "href": "/w/Mourning%27s_End_Part_II",
+        "difficulty": "Master",
+        "length": "Long",
+        "questPoints": "2",
+        "series": "Elf",
+        "releaseDate": "17 October 2005",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Agility": "20,000"
+        }
+    },
+    "/w/Rum_Deal": {
+        "number": "90",
+        "name": "Rum Deal",
+        "href": "/w/Rum_Deal",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Pirate",
+        "releaseDate": "31 October 2005",
+        "levelRequirements": {
+            "Prayer": "47",
+            "Crafting": "42",
+            "Slayer": "42",
+            "Fishing": "50",
+            "Farming": "40"
+        },
+        "experienceGranted": {
+            "Prayer": "7,000",
+            "Fishing": "7,000",
+            "Farming": "7,000",
+            "Skill_choice": "7,000"
+        }
+    },
+    "/w/Shadow_of_the_Storm": {
+        "number": "91",
+        "name": "Shadow of the Storm",
+        "href": "/w/Shadow_of_the_Storm",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Demon Slayer",
+        "releaseDate": "14 November 2005",
+        "levelRequirements": {
+            "Crafting": "30"
+        },
+        "experienceGranted": {}
+    },
+    "/w/Making_History": {
+        "number": "92",
+        "name": "Making History",
+        "href": "/w/Making_History",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "3",
+        "series": "N/A",
+        "releaseDate": "22 November 2005",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Prayer": "1,000",
+            "Crafting": "1,000"
+        }
+    },
+    "/w/Ratcatchers": {
+        "number": "93",
+        "name": "Ratcatchers",
+        "href": "/w/Ratcatchers",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "28 November 2005",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Thieving": "4,500"
+        }
+    },
+    "/w/Spirits_of_the_Elid": {
+        "number": "94",
+        "name": "Spirits of the Elid",
+        "href": "/w/Spirits_of_the_Elid",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "5 December 2005",
+        "levelRequirements": {
+            "Ranged": "37",
+            "Magic": "33",
+            "Thieving": "37",
+            "Mining": "37"
+        },
+        "experienceGranted": {
+            "Prayer": "8,000",
+            "Magic": "1,000",
+            "Thieving": "1,000"
+        }
+    },
+    "/w/Devious_Minds": {
+        "number": "95",
+        "name": "Devious Minds",
+        "href": "/w/Devious_Minds",
+        "difficulty": "Experienced",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "19 December 2005",
+        "levelRequirements": {
+            "Runecraft": "50",
+            "Fletching": "50",
+            "Smithing": "65"
+        },
+        "experienceGranted": {
+            "Runecraft": "5,000",
+            "Fletching": "5,000",
+            "Smithing": "6,500"
+        }
+    },
+    "/w/The_Hand_in_the_Sand": {
+        "number": "96",
+        "name": "The Hand in the Sand",
+        "href": "/w/The_Hand_in_the_Sand",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "10 January 2006",
+        "levelRequirements": {
+            "Thieving": "17",
+            "Crafting": "49"
+        },
+        "experienceGranted": {
+            "Thieving": "1,000",
+            "Crafting": "9,000"
+        }
+    },
+    "/w/Enakhra%27s_Lament": {
+        "number": "97",
+        "name": "Enakhra's Lament",
+        "href": "/w/Enakhra%27s_Lament",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Mahjarrat",
+        "releaseDate": "23 January 2006",
+        "levelRequirements": {
+            "Prayer": "43",
+            "Magic": "39",
+            "Crafting": "50",
+            "Firemaking": "45"
+        },
+        "experienceGranted": {
+            "Magic": "7,000",
+            "Crafting": "7,000",
+            "Mining": "7,000",
+            "Firemaking": "7,000"
+        }
+    },
+    "/w/Cabin_Fever": {
+        "number": "98",
+        "name": "Cabin Fever",
+        "href": "/w/Cabin_Fever",
+        "difficulty": "Experienced",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "Pirate",
+        "releaseDate": "7 February 2006",
+        "levelRequirements": {
+            "Ranged": "40",
+            "Agility": "42",
+            "Crafting": "45",
+            "Smithing": "50"
+        },
+        "experienceGranted": {
+            "Agility": "7,000",
+            "Crafting": "7,000",
+            "Smithing": "7,000"
+        }
+    },
+    "/w/Fairytale_I_-_Growing_Pains": {
+        "number": "99",
+        "name": "Fairytale I - Growing Pains",
+        "href": "/w/Fairytale_I_-_Growing_Pains",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Fairytale",
+        "releaseDate": "27 February 2006",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Attack": "2,000",
+            "Magic": "1,000",
+            "Farming": "3,500",
+            "Skill_choice": "3,500"
+        }
+    },
+    "/w/Recipe_for_Disaster": {
+        "number": "100",
+        "name": "Recipe for Disaster",
+        "href": "/w/Recipe_for_Disaster",
+        "difficulty": "Special",
+        "length": "Very Long",
+        "questPoints": "10",
+        "series": "N/A",
+        "releaseDate": "15 March 2006",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/In_Aid_of_the_Myreque": {
+        "number": "101",
+        "name": "In Aid of the Myreque",
+        "href": "/w/In_Aid_of_the_Myreque",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Myreque",
+        "releaseDate": "22 March 2006",
+        "levelRequirements": {
+            "Magic": "7",
+            "Crafting": "25",
+            "Mining": "15"
+        },
+        "experienceGranted": {
+            "Attack": "2,000",
+            "Strength": "2,000",
+            "Defence": "2,000",
+            "Crafting": "2,000"
+        }
+    },
+    "/w/A_Soul%27s_Bane": {
+        "number": "102",
+        "name": "A Soul's Bane",
+        "href": "/w/A_Soul%27s_Bane",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "3 April 2006",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Attack": "40",
+            "Defence": "500",
+            "Hitpoints": "500"
+        }
+    },
+    "/w/Rag_and_Bone_Man_I": {
+        "number": "103",
+        "name": "Rag and Bone Man I",
+        "href": "/w/Rag_and_Bone_Man_I",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Rag and Bone Man",
+        "releaseDate": "10 April 2006",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Prayer": "500",
+            "Cooking": "500"
+        }
+    },
+    "/w/Swan_Song": {
+        "number": "104",
+        "name": "Swan Song",
+        "href": "/w/Swan_Song",
+        "difficulty": "Master",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "2 May 2006",
+        "levelRequirements": {
+            "Magic": "66",
+            "Crafting": "40",
+            "Smithing": "45",
+            "Fishing": "62",
+            "Cooking": "62",
+            "Firemaking": "42"
+        },
+        "experienceGranted": {
+            "Prayer": "10,000",
+            "Magic": "15,000",
+            "Fishing": "10,000"
+        }
+    },
+    "/w/Royal_Trouble": {
+        "number": "105",
+        "name": "Royal Trouble",
+        "href": "/w/Royal_Trouble",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Miscellania",
+        "releaseDate": "22 May 2006",
+        "levelRequirements": {
+            "Agility": "40",
+            "Slayer": "40"
+        },
+        "experienceGranted": {
+            "Hitpoints": "5,000",
+            "Agility": "5,000",
+            "Slayer": "5,000"
+        }
+    },
+    "/w/Death_to_the_Dorgeshuun": {
+        "number": "106",
+        "name": "Death to the Dorgeshuun",
+        "href": "/w/Death_to_the_Dorgeshuun",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Dorgeshuun",
+        "releaseDate": "21 June 2006",
+        "levelRequirements": {
+            "Agility": "23",
+            "Thieving": "23"
+        },
+        "experienceGranted": {
+            "Ranged": "2,000",
+            "Thieving": "2,000"
+        }
+    },
+    "/w/Fairytale_II_-_Cure_a_Queen": {
+        "number": "107",
+        "name": "Fairytale II - Cure a Queen",
+        "href": "/w/Fairytale_II_-_Cure_a_Queen",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Fairytale",
+        "releaseDate": "11 July 2006",
+        "levelRequirements": {
+            "Herblore": "57",
+            "Thieving": "40",
+            "Farming": "49"
+        },
+        "experienceGranted": {
+            "Herblore": "3,500",
+            "Thieving": "2,500"
+        }
+    },
+    "/w/Lunar_Diplomacy": {
+        "number": "108",
+        "name": "Lunar Diplomacy",
+        "href": "/w/Lunar_Diplomacy",
+        "difficulty": "Experienced",
+        "length": "Long",
+        "questPoints": "2",
+        "series": "Fremennik",
+        "releaseDate": "24 July 2006",
+        "levelRequirements": {
+            "Defence": "40",
+            "Magic": "65",
+            "Herblore": "5",
+            "Crafting": "61",
+            "Mining": "60",
+            "Firemaking": "49",
+            "Woodcutting": "55"
+        },
+        "experienceGranted": {
+            "Magic": "5,000",
+            "Runecraft": "5,000"
+        }
+    },
+    "/w/The_Eyes_of_Glouphrie": {
+        "number": "109",
+        "name": "The Eyes of Glouphrie",
+        "href": "/w/The_Eyes_of_Glouphrie",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Gnome",
+        "releaseDate": "15 August 2006",
+        "levelRequirements": {
+            "Magic": "46",
+            "Construction": "5"
+        },
+        "experienceGranted": {
+            "Magic": "12,000",
+            "Runecraft": "6,000",
+            "Construction": "250",
+            "Woodcutting": "2,500"
+        }
+    },
+    "/w/Darkness_of_Hallowvale": {
+        "number": "110",
+        "name": "Darkness of Hallowvale",
+        "href": "/w/Darkness_of_Hallowvale",
+        "difficulty": "Experienced",
+        "length": "Long",
+        "questPoints": "2",
+        "series": "Myreque",
+        "releaseDate": "4 September 2006",
+        "levelRequirements": {
+            "Strength": "40",
+            "Magic": "33",
+            "Construction": "5",
+            "Agility": "26",
+            "Thieving": "22",
+            "Crafting": "32",
+            "Mining": "20"
+        },
+        "experienceGranted": {
+            "Construction": "2,000",
+            "Agility": "7,000",
+            "Thieving": "6,000"
+        }
+    },
+    "/w/The_Slug_Menace": {
+        "number": "111",
+        "name": "The Slug Menace",
+        "href": "/w/The_Slug_Menace",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Temple Knight",
+        "releaseDate": "20 September 2006",
+        "levelRequirements": {
+            "Runecraft": "30",
+            "Thieving": "30",
+            "Crafting": "30",
+            "Slayer": "30"
+        },
+        "experienceGranted": {
+            "Runecraft": "3,500",
+            "Thieving": "3,500",
+            "Crafting": "3,500"
+        }
+    },
+    "/w/Elemental_Workshop_II": {
+        "number": "112",
+        "name": "Elemental Workshop II",
+        "href": "/w/Elemental_Workshop_II",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Elemental Workshop",
+        "releaseDate": "2 October 2006",
+        "levelRequirements": {
+            "Magic": "20",
+            "Smithing": "30"
+        },
+        "experienceGranted": {
+            "Crafting": "7,500",
+            "Smithing": "7,500"
+        }
+    },
+    "/w/My_Arm%27s_Big_Adventure": {
+        "number": "113",
+        "name": "My Arm's Big Adventure",
+        "href": "/w/My_Arm%27s_Big_Adventure",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Troll",
+        "releaseDate": "23 October 2006",
+        "levelRequirements": {
+            "Woodcutting": "10",
+            "Farming": "29"
+        },
+        "experienceGranted": {
+            "Herblore": "10,000",
+            "Farming": "5,000",
+            "Skill_choice": "5,000"
+        }
+    },
+    "/w/Enlightened_Journey": {
+        "number": "114",
+        "name": "Enlightened Journey",
+        "href": "/w/Enlightened_Journey",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "6 November 2006",
+        "levelRequirements": {
+            "Crafting": "36",
+            "Firemaking": "20",
+            "Farming": "30"
+        },
+        "experienceGranted": {
+            "Crafting": "2,000",
+            "Firemaking": "4,000",
+            "Woodcutting": "1,500",
+            "Farming": "3,000",
+            "Skill_choice": "3,000"
+        }
+    },
+    "/w/Eagles%27_Peak": {
+        "number": "115",
+        "name": "Eagles' Peak",
+        "href": "/w/Eagles%27_Peak",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "28 November 2006",
+        "levelRequirements": {
+            "Hunter": "27"
+        },
+        "experienceGranted": {
+            "Hunter": "2,500"
+        }
+    },
+    "/w/Animal_Magnetism": {
+        "number": "116",
+        "name": "Animal Magnetism",
+        "href": "/w/Animal_Magnetism",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "12 December 2006",
+        "levelRequirements": {
+            "Ranged": "30",
+            "Crafting": "19",
+            "Slayer": "18",
+            "Woodcutting": "35"
+        },
+        "experienceGranted": {
+            "Crafting": "1,000",
+            "Fletching": "1,000",
+            "Slayer": "1,000",
+            "Woodcutting": "2,500"
+        }
+    },
+    "/w/Contact!": {
+        "number": "117",
+        "name": "Contact!",
+        "href": "/w/Contact!",
+        "difficulty": "Experienced",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Kharidian",
+        "releaseDate": "10 January 2007",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Thieving": "7,000"
+        }
+    },
+    "/w/Cold_War": {
+        "number": "118",
+        "name": "Cold War",
+        "href": "/w/Cold_War",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Penguin",
+        "releaseDate": "29 January 2007",
+        "levelRequirements": {
+            "Construction": "34",
+            "Agility": "30",
+            "Thieving": "15",
+            "Crafting": "30",
+            "Hunter": "10"
+        },
+        "experienceGranted": {
+            "Construction": "1,500",
+            "Agility": "5,000",
+            "Crafting": "2,000"
+        }
+    },
+    "/w/The_Fremennik_Isles": {
+        "number": "119",
+        "name": "The Fremennik Isles",
+        "href": "/w/The_Fremennik_Isles",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Fremennik",
+        "releaseDate": "6 February 2007",
+        "levelRequirements": {
+            "Construction": "20"
+        },
+        "experienceGranted": {
+            "Construction": "5,000",
+            "Crafting": "5,000",
+            "Woodcutting": "10,000"
+        }
+    },
+    "/w/The_Great_Brain_Robbery": {
+        "number": "121",
+        "name": "The Great Brain Robbery",
+        "href": "/w/The_Great_Brain_Robbery",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Pirate",
+        "releaseDate": "6 March 2007",
+        "levelRequirements": {
+            "Prayer": "50",
+            "Construction": "30",
+            "Crafting": "16"
+        },
+        "experienceGranted": {
+            "Prayer": "6,000",
+            "Construction": "2,000",
+            "Crafting": "3,000"
+        }
+    },
+    "/w/What_Lies_Below": {
+        "number": "122",
+        "name": "What Lies Below",
+        "href": "/w/What_Lies_Below",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "27 March 2007",
+        "levelRequirements": {
+            "Runecraft": "35"
+        },
+        "experienceGranted": {
+            "Defence": "2,000",
+            "Runecraft": "8,000"
+        }
+    },
+    "/w/Olaf%27s_Quest": {
+        "number": "123",
+        "name": "Olaf's Quest",
+        "href": "/w/Olaf%27s_Quest",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "10 April 2007",
+        "levelRequirements": {
+            "Firemaking": "40",
+            "Woodcutting": "50"
+        },
+        "experienceGranted": {
+            "Defence": "12,000"
+        }
+    },
+    "/w/Another_Slice_of_H.A.M.": {
+        "number": "124",
+        "name": "Another Slice of H.A.M.",
+        "href": "/w/Another_Slice_of_H.A.M.",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Dorgeshuun",
+        "releaseDate": "24 April 2007",
+        "levelRequirements": {
+            "Attack": "15",
+            "Prayer": "25"
+        },
+        "experienceGranted": {
+            "Prayer": "3,000",
+            "Mining": "3,000"
+        }
+    },
+    "/w/Dream_Mentor": {
+        "number": "125",
+        "name": "Dream Mentor",
+        "href": "/w/Dream_Mentor",
+        "difficulty": "Master",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "15 May 2007",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Magic": "10,000",
+            "Hitpoints": "15,000"
+        }
+    },
+    "/w/Grim_Tales": {
+        "number": "126",
+        "name": "Grim Tales",
+        "href": "/w/Grim_Tales",
+        "difficulty": "Master",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "4 June 2007",
+        "levelRequirements": {
+            "Agility": "59",
+            "Herblore": "52",
+            "Thieving": "58",
+            "Woodcutting": "71",
+            "Farming": "45"
+        },
+        "experienceGranted": {
+            "Hitpoints": "5,000",
+            "Agility": "6,000",
+            "Herblore": "5,000",
+            "Thieving": "6,000",
+            "Woodcutting": "14,000",
+            "Farming": "4,000",
+            "Skill_choice": "4,000"
+        }
+    },
+    "/w/King%27s_Ransom": {
+        "number": "127",
+        "name": "King's Ransom",
+        "href": "/w/King%27s_Ransom",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Camelot",
+        "releaseDate": "24 July 2007",
+        "levelRequirements": {
+            "Defence": "65",
+            "Magic": "45"
+        },
+        "experienceGranted": {
+            "Defence": "33,000",
+            "Magic": "5,000"
+        }
+    },
+    "/w/Shilo_Village": {
+        "number": "41",
+        "name": "Shilo Village",
+        "href": "/w/Shilo_Village",
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "27 January 2003",
+        "levelRequirements": {
+            "Agility": "32",
+            "Crafting": "20"
+        },
+        "experienceGranted": {
+            "Crafting": "3,875"
+        }
+    },
+    "/w/Biohazard": {
+        "number": "38",
+        "name": "Biohazard",
+        "href": "/w/Biohazard",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "3",
+        "series": "Elf",
+        "releaseDate": "23 October 2002",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Thieving": "1,250"
+        }
+    },
+    "/w/Tower_of_Life": {
+        "number": "120",
+        "name": "Tower of Life",
+        "href": "/w/Tower_of_Life",
+        "difficulty": "Novice",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "19 February 2007",
+        "levelRequirements": {
+            "Construction": "10"
+        },
+        "experienceGranted": {
+            "Construction": "1,000",
+            "Thieving": "500",
+            "Crafting": "500"
+        }
+    },
+    "/w/Rag_and_Bone_Man_II": {
+        "number": "131",
+        "name": "Rag and Bone Man II",
+        "href": "/w/Rag_and_Bone_Man_II",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Rag and Bone Man",
+        "releaseDate": "10 April 2006",
+        "levelRequirements": {
+            "Defence": "20",
+            "Slayer": "40"
+        },
+        "experienceGranted": {
+            "Prayer": "5,000"
+        }
+    },
+    "/w/Land_of_the_Goblins": {
+        "number": "151",
+        "name": "Land of the Goblins",
+        "href": "/w/Land_of_the_Goblins",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Dorgeshuun",
+        "releaseDate": "9 February 2022",
+        "levelRequirements": {
+            "Agility": "38",
+            "Herblore": "48",
+            "Thieving": "45",
+            "Fishing": "40"
+        },
+        "experienceGranted": {
+            "Agility": "8,000\n",
+            "Herblore": "8,000\n",
+            "Thieving": "8,000\n",
+            "Fishing": "8,000\n"
+        }
+    },
+    "/w/Zogre_Flesh_Eaters": {
+        "number": "80",
+        "name": "Zogre Flesh Eaters",
+        "href": "/w/Zogre_Flesh_Eaters",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "17 May 2005",
+        "levelRequirements": {
+            "Ranged": "30",
+            "Herblore": "8",
+            "Smithing": "4"
+        },
+        "experienceGranted": {
+            "Ranged": "2,000",
+            "Herblore": "2,000",
+            "Fletching": "2,000"
+        }
+    },
+    "/w/Monkey_Madness_II": {
+        "number": "128",
+        "name": "Monkey Madness II",
+        "href": "/w/Monkey_Madness_II",
+        "difficulty": "Grandmaster",
+        "length": "Very Long",
+        "questPoints": "4",
+        "series": "Gnome",
+        "releaseDate": "6 May 2016",
+        "levelRequirements": {
+            "Agility": "55",
+            "Thieving": "55",
+            "Crafting": "70",
+            "Slayer": "69",
+            "Hunter": "60",
+            "Firemaking": "60"
+        },
+        "experienceGranted": {
+            "Agility": "20,000",
+            "Thieving": "15,000",
+            "Slayer": "25,000",
+            "Hunter": "15,000"
+        }
+    },
+    "/w/Client_of_Kourend": {
+        "number": "130",
+        "name": "Client of Kourend",
+        "href": "/w/Client_of_Kourend",
+        "difficulty": "Novice",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Great Kourend",
+        "releaseDate": "20 April 2017",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/The_Queen_of_Thieves": {
+        "number": "133",
+        "name": "The Queen of Thieves",
+        "href": "/w/The_Queen_of_Thieves",
+        "difficulty": "Intermediate",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "Great Kourend",
+        "releaseDate": "9 November 2017",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Thieving": "2,000"
+        }
+    },
+    "/w/Bone_Voyage": {
+        "number": "132",
+        "name": "Bone Voyage",
+        "href": "/w/Bone_Voyage",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "7 September 2017",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Dragon_Slayer_II": {
+        "number": "136",
+        "name": "Dragon Slayer II",
+        "href": "/w/Dragon_Slayer_II",
+        "difficulty": "Grandmaster",
+        "length": "Very Long",
+        "questPoints": "5",
+        "series": "Dragonkin",
+        "releaseDate": "4 January 2018",
+        "levelRequirements": {
+            "Magic": "75",
+            "Construction": "50",
+            "Hitpoints": "50",
+            "Agility": "60",
+            "Thieving": "60",
+            "Crafting": "62",
+            "Mining": "68",
+            "Smithing": "70"
+        },
+        "experienceGranted": {
+            "Agility": "15,000",
+            "Thieving": "15,000",
+            "Mining": "18,000",
+            "Smithing": "25,000"
+        }
+    },
+    "/w/The_Depths_of_Despair": {
+        "number": "134",
+        "name": "The Depths of Despair",
+        "href": "/w/The_Depths_of_Despair",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Great Kourend",
+        "releaseDate": "9 November 2017",
+        "levelRequirements": {
+            "Agility": "18"
+        },
+        "experienceGranted": {
+            "Agility": "1,500"
+        }
+    },
+    "/w/Recipe_for_Disaster/Another_Cook%27s_Quest": {
+        "number": "100.1",
+        "name": "Recipe for Disaster/Another Cook's Quest",
+        "href": "/w/Recipe_for_Disaster/Another_Cook%27s_Quest",
+        "difficulty": "Special",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "15 March 2006",
+        "levelRequirements": {
+            "Cooking": "10"
+        },
+        "experienceGranted": {}
+    },
+    "/w/Recipe_for_Disaster/Freeing_the_Goblin_generals": {
+        "number": "100.3",
+        "name": "Recipe for Disaster/Freeing the Goblin generals",
+        "href": "/w/Recipe_for_Disaster/Freeing_the_Goblin_generals",
+        "difficulty": "Special",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "15 March 2006",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Crafting": "1,000",
+            "Cooking": "1,000",
+            "Farming": "1,000",
+            "Skill_choice": "1,000"
+        }
+    },
+    "/w/Recipe_for_Disaster/Freeing_the_Mountain_Dwarf": {
+        "number": "100.2",
+        "name": "Recipe for Disaster/Freeing the Mountain Dwarf",
+        "href": "/w/Recipe_for_Disaster/Freeing_the_Mountain_Dwarf",
+        "difficulty": "Special",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "15 March 2006",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Slayer": "1,000",
+            "Cooking": "1,000"
+        }
+    },
+    "/w/Recipe_for_Disaster/Freeing_Evil_Dave": {
+        "number": "100.6",
+        "name": "Recipe for Disaster/Freeing Evil Dave",
+        "href": "/w/Recipe_for_Disaster/Freeing_Evil_Dave",
+        "difficulty": "Special",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "15 March 2006",
+        "levelRequirements": {
+            "Cooking": "25"
+        },
+        "experienceGranted": {
+            "Cooking": "7,000"
+        }
+    },
+    "/w/Recipe_for_Disaster/Freeing_Pirate_Pete": {
+        "number": "100.4",
+        "name": "Recipe for Disaster/Freeing Pirate Pete",
+        "href": "/w/Recipe_for_Disaster/Freeing_Pirate_Pete",
+        "difficulty": "Special",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "15 March 2006",
+        "levelRequirements": {
+            "Cooking": "31"
+        },
+        "experienceGranted": {
+            "Crafting": "1,000",
+            "Smithing": "1,000",
+            "Fishing": "1,000",
+            "Cooking": "1,000"
+        }
+    },
+    "/w/Recipe_for_Disaster/Freeing_the_Lumbridge_Guide": {
+        "number": "100.5",
+        "name": "Recipe for Disaster/Freeing the Lumbridge Guide",
+        "href": "/w/Recipe_for_Disaster/Freeing_the_Lumbridge_Guide",
+        "difficulty": "Special",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "15 March 2006",
+        "levelRequirements": {
+            "Cooking": "40"
+        },
+        "experienceGranted": {
+            "Magic": "2,500",
+            "Cooking": "2,500"
+        }
+    },
+    "/w/Recipe_for_Disaster/Freeing_Sir_Amik_Varze": {
+        "number": "100.8",
+        "name": "Recipe for Disaster/Freeing Sir Amik Varze",
+        "href": "/w/Recipe_for_Disaster/Freeing_Sir_Amik_Varze",
+        "difficulty": "Special",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "15 March 2006",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Hitpoints": "4,000",
+            "Cooking": "4,000"
+        }
+    },
+    "/w/Recipe_for_Disaster/Freeing_King_Awowogei": {
+        "number": "100.7",
+        "name": "Recipe for Disaster/Freeing King Awowogei",
+        "href": "/w/Recipe_for_Disaster/Freeing_King_Awowogei",
+        "difficulty": "Special",
+        "length": "Long",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "15 March 2006",
+        "levelRequirements": {
+            "Agility": "48",
+            "Cooking": "70"
+        },
+        "experienceGranted": {
+            "Agility": "10,000",
+            "Cooking": "10,000"
+        }
+    },
+    "/w/Recipe_for_Disaster/Freeing_Skrach_Uglogwee": {
+        "number": "100.9",
+        "name": "Recipe for Disaster/Freeing Skrach Uglogwee",
+        "href": "/w/Recipe_for_Disaster/Freeing_Skrach_Uglogwee",
+        "difficulty": "Special",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "15 March 2006",
+        "levelRequirements": {
+            "Cooking": "41",
+            "Firemaking": "20"
+        },
+        "experienceGranted": {
+            "Ranged": "1,500",
+            "Crafting": "1,500",
+            "Cooking": "1,500",
+            "Woodcutting": "1,500"
+        }
+    },
+    "/w/A_Taste_of_Hope": {
+        "number": "138",
+        "name": "A Taste of Hope",
+        "href": "/w/A_Taste_of_Hope",
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "questPoints": "1",
+        "series": "Myreque",
+        "releaseDate": "24 May 2018",
+        "levelRequirements": {
+            "Attack": "40",
+            "Crafting": "48",
+            "Slayer": "38"
+        },
+        "experienceGranted": {}
+    },
+    "/w/Tale_of_the_Righteous": {
+        "number": "137",
+        "name": "Tale of the Righteous",
+        "href": "/w/Tale_of_the_Righteous",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Great Kourend",
+        "releaseDate": "19 April 2018",
+        "levelRequirements": {
+            "Strength": "16",
+            "Mining": "10"
+        },
+        "experienceGranted": {}
+    },
+    "/w/Making_Friends_with_My_Arm": {
+        "number": "139",
+        "name": "Making Friends with My Arm",
+        "href": "/w/Making_Friends_with_My_Arm",
+        "difficulty": "Master",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Troll",
+        "releaseDate": "6 September 2018",
+        "levelRequirements": {
+            "Construction": "35",
+            "Agility": "68",
+            "Mining": "72",
+            "Firemaking": "66"
+        },
+        "experienceGranted": {
+            "Construction": "2,000",
+            "Agility": "10,000",
+            "Mining": "10,000",
+            "Firemaking": "5,000"
+        }
+    },
+    "/w/Recipe_for_Disaster/Defeating_the_Culinaromancer": {
+        "number": "100.10",
+        "name": "Recipe for Disaster/Defeating the Culinaromancer",
+        "href": "/w/Recipe_for_Disaster/Defeating_the_Culinaromancer",
+        "difficulty": "Special",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "15 March 2006",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Song_of_the_Elves": {
+        "number": "143",
+        "name": "Song of the Elves",
+        "href": "/w/Song_of_the_Elves",
+        "difficulty": "Grandmaster",
+        "length": "Very Long",
+        "questPoints": "4",
+        "series": "Elf",
+        "releaseDate": "25 July 2019",
+        "levelRequirements": {
+            "Construction": "70",
+            "Agility": "70",
+            "Herblore": "70",
+            "Hunter": "70",
+            "Mining": "70",
+            "Smithing": "70",
+            "Woodcutting": "70",
+            "Farming": "70"
+        },
+        "experienceGranted": {
+            "Construction": "20,000",
+            "Agility": "20,000",
+            "Herblore": "20,000",
+            "Hunter": "20,000",
+            "Mining": "20,000",
+            "Smithing": "20,000",
+            "Woodcutting": "20,000",
+            "Farming": "20,000",
+            "Skill_choice": "20,000"
+        }
+    },
+    "/w/The_Ascent_of_Arceuus": {
+        "number": "141",
+        "name": "The Ascent of Arceuus",
+        "href": "/w/The_Ascent_of_Arceuus",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Great Kourend",
+        "releaseDate": "10 January 2019",
+        "levelRequirements": {
+            "Hunter": "12"
+        },
+        "experienceGranted": {
+            "Runecraft": "500",
+            "Hunter": "1,500"
+        }
+    },
+    "/w/The_Forsaken_Tower": {
+        "number": "140",
+        "name": "The Forsaken Tower",
+        "href": "/w/The_Forsaken_Tower",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Great Kourend",
+        "releaseDate": "10 January 2019",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Mining": "500",
+            "Smithing": "500"
+        }
+    },
+    "/w/The_Fremennik_Exiles": {
+        "number": "144",
+        "name": "The Fremennik Exiles",
+        "href": "/w/The_Fremennik_Exiles",
+        "difficulty": "Master",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Fremennik",
+        "releaseDate": "26 September 2019",
+        "levelRequirements": {
+            "Runecraft": "55",
+            "Crafting": "65",
+            "Slayer": "60",
+            "Smithing": "60",
+            "Fishing": "60"
+        },
+        "experienceGranted": {
+            "Runecraft": "5,000",
+            "Crafting": "15,000",
+            "Slayer": "15,000"
+        }
+    },
+    "/w/Sins_of_the_Father": {
+        "number": "145",
+        "name": "Sins of the Father",
+        "href": "/w/Sins_of_the_Father",
+        "difficulty": "Master",
+        "length": "Long",
+        "questPoints": "2",
+        "series": "Myreque",
+        "releaseDate": "4 June 2020",
+        "levelRequirements": {
+            "Attack": "50",
+            "Magic": "49",
+            "Agility": "52",
+            "Crafting": "56",
+            "Fletching": "60",
+            "Slayer": "50",
+            "Woodcutting": "62"
+        },
+        "experienceGranted": {}
+    },
+    "/w/A_Kingdom_Divided": {
+        "number": "150",
+        "name": "A Kingdom Divided",
+        "href": "/w/A_Kingdom_Divided",
+        "difficulty": "Experienced",
+        "length": "Long",
+        "questPoints": "2",
+        "series": "Great Kourend",
+        "releaseDate": "16 June 2021",
+        "levelRequirements": {
+            "Magic": "35",
+            "Agility": "54",
+            "Herblore": "50",
+            "Thieving": "52",
+            "Crafting": "38",
+            "Mining": "42",
+            "Woodcutting": "52"
+        },
+        "experienceGranted": {}
+    },
+    "/w/A_Porcine_of_Interest": {
+        "number": "146",
+        "name": "A Porcine of Interest",
+        "href": "/w/A_Porcine_of_Interest",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "10 September 2020",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Slayer": "1,000\n"
+        }
+    },
+    "/w/Getting_Ahead": {
+        "number": "147",
+        "name": "Getting Ahead",
+        "href": "/w/Getting_Ahead",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Twisted Tales",
+        "releaseDate": "25 November 2020",
+        "levelRequirements": {
+            "Construction": "26"
+        },
+        "experienceGranted": {
+            "Construction": "3,200",
+            "Crafting": "4,000"
+        }
+    },
+    "/w/A_Night_at_the_Theatre": {
+        "number": "149",
+        "name": "A Night at the Theatre",
+        "href": "/w/A_Night_at_the_Theatre",
+        "difficulty": "Master",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "N/A",
+        "releaseDate": "3 June 2021",
+        "levelRequirements": {},
+        "experienceGranted": {}
+    },
+    "/w/Beneath_Cursed_Sands": {
+        "number": "153",
+        "name": "Beneath Cursed Sands",
+        "href": "/w/Beneath_Cursed_Sands",
+        "difficulty": "Master",
+        "length": "Medium",
+        "questPoints": "2",
+        "series": "Kharidian",
+        "releaseDate": "27 April 2022",
+        "levelRequirements": {
+            "Agility": "62",
+            "Crafting": "55",
+            "Firemaking": "55"
+        },
+        "experienceGranted": {
+            "Agility": "20,000"
+        }
+    },
+    "/w/Temple_of_the_Eye": {
+        "number": "152",
+        "name": "Temple of the Eye",
+        "href": "/w/Temple_of_the_Eye",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "Order of Wizards",
+        "releaseDate": "23 March 2022",
+        "levelRequirements": {
+            "Runecraft": "10"
+        },
+        "experienceGranted": {
+            "Runecraft": "5,000"
+        }
+    },
+    "/w/Sleeping_Giants": {
+        "number": "154",
+        "name": "Sleeping Giants",
+        "href": "/w/Sleeping_Giants",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "questPoints": "1",
+        "series": "N/A",
+        "releaseDate": "8 June 2022",
+        "levelRequirements": {},
+        "experienceGranted": {
+            "Smithing": "6,000"
+        }
+    }
+}
