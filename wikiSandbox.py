@@ -1,14 +1,12 @@
 import requests
 
 result = requests.get('https://oldschool.runescape.wiki/api.php', params={
-    'action': 'paraminfo',
-    'modules': 'ask',
-    'helpformat': 'none',
+    'action': 'ask',
+    'query': '[[Quest Requirements::+]]|?Quest Requirements|limit=500',
     'format': 'json'
 }).json()
 
-print(result)
-
-# for page in result['query']['results']:
-#     items = result['query']['results'][page]['printouts']
-#     print(items)
+for page in result['query']['results']:
+    items = result['query']['results'][page]['printouts']['Quest Requirements']
+    print (page + ": ")
+    print (items)

@@ -1,9 +1,8 @@
+from ast import pattern
+from sre_parse import FLAGS
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
-
-skills = ["Attack", "Strength", "Defence", "Ranged", "Prayer", "Magic", "Runecraft", "Construction", 
-"Hitpoints", "Agility", "Herblore", "Thieving", "Crafting","Fletching", "Slayer", "Hunter", "Mining", 
-"Smithing", "Fishing", "Cooking","Firemaking", "Woodcutting", "Farming"]
+from skills import skills
 
 quests = {}
 
@@ -37,6 +36,7 @@ def ExtractQuestsFromTableList(quests, tbody):
             index += 1
         quest["levelRequirements"] = {}
         quest["experienceGranted"] = {}
+        quest["prerequisiteQuests"] = []
         if ("href" in quest):
             quests[quest["href"]] = quest
 
@@ -59,9 +59,20 @@ def GetXpRewardsForSkill(skillName, soup):
                         break
                     quest = quests[href]
                 case 1:
-                    quest["experienceGranted"][skillName] = td.next
+                    quest["experienceGranted"][skillName] = float((td.next).replace(",",""))
                     break
             index += 1
+
+def GetQuestPreRequisites(href, soup:BeautifulSoup):
+    el = soup.find("th", {"class":"questdetails-header", "text":"Requirements"})
+    li = soup.find("li", string="Completion of the following quests:")
+
+def GetQuestFromName(name):
+    for href in quests:
+        if (quests[href]["name"] == name):
+            return quests[href]
+    print("Could not find quest : " + name)
+    return None
 
 soup = GetSoup("https://oldschool.runescape.wiki/w/Quests/List")
 
@@ -91,13 +102,38 @@ for skill in skills:
         href = a.attrs["href"]
         if (href.endswith("_(quest)")):
             href = href[0:len(href) - len("_(quest)")]
-        quests[href]["levelRequirements"][skill] = level
+        quests[href]["levelRequirements"][skill] = int(level)
 
 soup = GetSoup("https://oldschool.runescape.wiki/w/Quest_experience_rewards")
 
 for skill in skills:
     GetXpRewardsForSkill(skill, soup)
 GetXpRewardsForSkill("Skill_choice", soup)
+
+import requests
+
+result = requests.get('https://oldschool.runescape.wiki/api.php', params={
+    'action': 'ask',
+    'query': '[[Quest Requirements::+]]|?Quest Requirements|limit=500',
+    'format': 'json'
+}).json()
+
+import re
+
+for page in result['query']['results']:
+    reqs = result['query']['results'][page]['printouts']['Quest Requirements'][0]
+    quest = GetQuestFromName(page)
+    if (quest == None):
+        continue
+    rePattern = "\[\[.+?\]\]"
+    matches = re.findall(rePattern, reqs)
+    for match in matches:
+        match = match.strip("[]")
+        req = GetQuestFromName(match)
+        if (req == None):
+            continue
+        quest["prerequisiteQuests"].append(match)
+
 
 import json
 questsJSON = json.dumps(quests, indent=4, separators=(',', ': '))

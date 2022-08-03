@@ -9,7 +9,8 @@
         "series": "N/A",
         "releaseDate": "4 January 2001",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Demon_Slayer": {
         "number": "2",
@@ -21,7 +22,8 @@
         "series": "Demon Slayer",
         "releaseDate": "4 January 2001",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Shield_of_Arrav": {
         "number": "6",
@@ -33,7 +35,8 @@
         "series": "N/A",
         "releaseDate": "4 January 2001",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Ernest_the_Chicken": {
         "number": "7",
@@ -45,7 +48,8 @@
         "series": "N/A",
         "releaseDate": "21 January 2001",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Vampyre_Slayer": {
         "number": "8",
@@ -58,8 +62,9 @@
         "releaseDate": "28 January 2001",
         "levelRequirements": {},
         "experienceGranted": {
-            "Attack": "4,825"
-        }
+            "Attack": 4825.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Imp_Catcher": {
         "number": "9",
@@ -72,8 +77,9 @@
         "releaseDate": "16 February 2001",
         "levelRequirements": {},
         "experienceGranted": {
-            "Magic": "875"
-        }
+            "Magic": 875.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Prince_Ali_Rescue": {
         "number": "10",
@@ -85,7 +91,8 @@
         "series": "Kharidian",
         "releaseDate": "28 February 2001",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Doric%27s_Quest": {
         "number": "11",
@@ -98,8 +105,9 @@
         "releaseDate": "6 April 2001",
         "levelRequirements": {},
         "experienceGranted": {
-            "Mining": "1,300"
-        }
+            "Mining": 1300.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Black_Knights%27_Fortress": {
         "number": "12",
@@ -111,7 +119,8 @@
         "series": "N/A",
         "releaseDate": "6 April 2001",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Witch%27s_Potion": {
         "number": "13",
@@ -124,8 +133,9 @@
         "releaseDate": "6 April 2001",
         "levelRequirements": {},
         "experienceGranted": {
-            "Magic": "325"
-        }
+            "Magic": 325.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Goblin_Diplomacy": {
         "number": "15",
@@ -138,8 +148,9 @@
         "releaseDate": "8 May 2001",
         "levelRequirements": {},
         "experienceGranted": {
-            "Crafting": "200"
-        }
+            "Crafting": 200.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Pirate%27s_Treasure": {
         "number": "16",
@@ -151,7 +162,8 @@
         "series": "N/A",
         "releaseDate": "11 June 2001",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Dragon_Slayer_I": {
         "number": "17",
@@ -164,9 +176,10 @@
         "releaseDate": "23 September 2001",
         "levelRequirements": {},
         "experienceGranted": {
-            "Strength": "18,650",
-            "Defence": "18,650"
-        }
+            "Strength": 18650.0,
+            "Defence": 18650.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Rune_Mysteries": {
         "number": "51",
@@ -178,7 +191,8 @@
         "series": "Order of Wizards",
         "releaseDate": "1 December 2003",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Misthalin_Mystery": {
         "number": "129",
@@ -191,8 +205,9 @@
         "releaseDate": "26 January 2017",
         "levelRequirements": {},
         "experienceGranted": {
-            "Crafting": "600"
-        }
+            "Crafting": 600.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/X_Marks_the_Spot": {
         "number": "142",
@@ -204,7 +219,8 @@
         "series": "Great Kourend",
         "releaseDate": "7 February 2019",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Below_Ice_Mountain": {
         "number": "148",
@@ -216,7 +232,8 @@
         "series": "N/A",
         "releaseDate": "14 April 2021",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Sheep_Shearer": {
         "number": "5",
@@ -229,8 +246,9 @@
         "releaseDate": "4 January 2001",
         "levelRequirements": {},
         "experienceGranted": {
-            "Crafting": "150"
-        }
+            "Crafting": 150.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Cook%27s_Assistant": {
         "number": "1",
@@ -243,8 +261,9 @@
         "releaseDate": "4 January 2001",
         "levelRequirements": {},
         "experienceGranted": {
-            "Cooking": "300"
-        }
+            "Cooking": 300.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/The_Corsair_Curse": {
         "number": "135",
@@ -256,7 +275,8 @@
         "series": "N/A",
         "releaseDate": "7 December 2017",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/The_Knight%27s_Sword": {
         "number": "14",
@@ -268,11 +288,12 @@
         "series": "N/A",
         "releaseDate": "6 April 2001",
         "levelRequirements": {
-            "Mining": "10"
+            "Mining": 10
         },
         "experienceGranted": {
-            "Smithing": "12,725"
-        }
+            "Smithing": 12725.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/The_Restless_Ghost": {
         "number": "3",
@@ -285,8 +306,9 @@
         "releaseDate": "4 January 2001",
         "levelRequirements": {},
         "experienceGranted": {
-            "Prayer": "1,125"
-        }
+            "Prayer": 1125.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Druidic_Ritual": {
         "number": "18",
@@ -299,8 +321,9 @@
         "releaseDate": "27 February 2002",
         "levelRequirements": {},
         "experienceGranted": {
-            "Herblore": "250"
-        }
+            "Herblore": 250.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Lost_City": {
         "number": "19",
@@ -312,10 +335,11 @@
         "series": "N/A",
         "releaseDate": "27 February 2002",
         "levelRequirements": {
-            "Crafting": "31",
-            "Woodcutting": "36"
+            "Crafting": 31,
+            "Woodcutting": 36
         },
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Witch%27s_House": {
         "number": "20",
@@ -328,8 +352,9 @@
         "releaseDate": "27 February 2002",
         "levelRequirements": {},
         "experienceGranted": {
-            "Hitpoints": "6,325"
-        }
+            "Hitpoints": 6325.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Merlin%27s_Crystal": {
         "number": "21",
@@ -341,7 +366,8 @@
         "series": "Camelot",
         "releaseDate": "27 February 2002",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Heroes%27_Quest": {
         "number": "22",
@@ -353,25 +379,31 @@
         "series": "N/A",
         "releaseDate": "27 February 2002",
         "levelRequirements": {
-            "Herblore": "25",
-            "Mining": "50",
-            "Fishing": "53",
-            "Cooking": "53"
+            "Herblore": 25,
+            "Mining": 50,
+            "Fishing": 53,
+            "Cooking": 53
         },
         "experienceGranted": {
-            "Attack": "3,075",
-            "Strength": "3,075",
-            "Defence": "3,075",
-            "Ranged": "2,075",
-            "Hitpoints": "3,075",
-            "Herblore": "1,325",
-            "Mining": "2,575",
-            "Smithing": "2,257",
-            "Fishing": "2,725",
-            "Cooking": "2,825",
-            "Firemaking": "1,575",
-            "Woodcutting": "1,575"
-        }
+            "Attack": 3075.0,
+            "Strength": 3075.0,
+            "Defence": 3075.0,
+            "Ranged": 2075.0,
+            "Hitpoints": 3075.0,
+            "Herblore": 1325.0,
+            "Mining": 2575.0,
+            "Smithing": 2257.0,
+            "Fishing": 2725.0,
+            "Cooking": 2825.0,
+            "Firemaking": 1575.0,
+            "Woodcutting": 1575.0
+        },
+        "prerequisiteQuests": [
+            "Shield of Arrav",
+            "Lost City",
+            "Merlin's Crystal",
+            "Dragon Slayer I"
+        ]
     },
     "/w/Scorpion_Catcher": {
         "number": "23",
@@ -383,11 +415,12 @@
         "series": "N/A",
         "releaseDate": "25 March 2002",
         "levelRequirements": {
-            "Prayer": "31"
+            "Prayer": 31
         },
         "experienceGranted": {
-            "Strength": "6,625"
-        }
+            "Strength": 6625.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Family_Crest": {
         "number": "24",
@@ -399,12 +432,13 @@
         "series": "N/A",
         "releaseDate": "9 April 2002",
         "levelRequirements": {
-            "Magic": "59",
-            "Crafting": "40",
-            "Mining": "40",
-            "Smithing": "40"
+            "Magic": 59,
+            "Crafting": 40,
+            "Mining": 40,
+            "Smithing": 40
         },
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Fishing_Contest": {
         "number": "26",
@@ -416,11 +450,12 @@
         "series": "N/A",
         "releaseDate": "28 May 2002",
         "levelRequirements": {
-            "Fishing": "10"
+            "Fishing": 10
         },
         "experienceGranted": {
-            "Fishing": "2,437"
-        }
+            "Fishing": 2437.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Tribal_Totem": {
         "number": "25",
@@ -432,11 +467,12 @@
         "series": "N/A",
         "releaseDate": "30 April 2002",
         "levelRequirements": {
-            "Thieving": "21"
+            "Thieving": 21
         },
         "experienceGranted": {
-            "Thieving": "1,775"
-        }
+            "Thieving": 1775.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Monk%27s_Friend": {
         "number": "27",
@@ -449,8 +485,9 @@
         "releaseDate": "28 May 2002",
         "levelRequirements": {},
         "experienceGranted": {
-            "Woodcutting": "2,000"
-        }
+            "Woodcutting": 2000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Temple_of_Ikov": {
         "number": "28",
@@ -462,13 +499,14 @@
         "series": "Mahjarrat",
         "releaseDate": "17 June 2002",
         "levelRequirements": {
-            "Ranged": "40",
-            "Thieving": "42"
+            "Ranged": 40,
+            "Thieving": 42
         },
         "experienceGranted": {
-            "Ranged": "10,500",
-            "Fletching": "8,000"
-        }
+            "Ranged": 10500.0,
+            "Fletching": 8000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Clock_Tower": {
         "number": "29",
@@ -480,7 +518,8 @@
         "series": "N/A",
         "releaseDate": "17 June 2002",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Holy_Grail": {
         "number": "30",
@@ -492,12 +531,15 @@
         "series": "Camelot",
         "releaseDate": "23 July 2002",
         "levelRequirements": {
-            "Attack": "20"
+            "Attack": 20
         },
         "experienceGranted": {
-            "Defence": "15,300",
-            "Prayer": "11,000"
-        }
+            "Defence": 15300.0,
+            "Prayer": 11000.0
+        },
+        "prerequisiteQuests": [
+            "Merlin's Crystal"
+        ]
     },
     "/w/Tree_Gnome_Village": {
         "number": "31",
@@ -510,8 +552,9 @@
         "releaseDate": "23 July 2002",
         "levelRequirements": {},
         "experienceGranted": {
-            "Attack": "11,450"
-        }
+            "Attack": 11450.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Fight_Arena": {
         "number": "32",
@@ -524,9 +567,10 @@
         "releaseDate": "23 July 2002",
         "levelRequirements": {},
         "experienceGranted": {
-            "Attack": "12,175",
-            "Thieving": "2,175"
-        }
+            "Attack": 12175.0,
+            "Thieving": 2175.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Hazeel_Cult": {
         "number": "33",
@@ -539,8 +583,9 @@
         "releaseDate": "15 August 2002",
         "levelRequirements": {},
         "experienceGranted": {
-            "Thieving": "1,500"
-        }
+            "Thieving": 1500.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Sheep_Herder": {
         "number": "34",
@@ -552,7 +597,8 @@
         "series": "N/A",
         "releaseDate": "15 August 2002",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Plague_City": {
         "number": "35",
@@ -565,8 +611,9 @@
         "releaseDate": "27 August 2002",
         "levelRequirements": {},
         "experienceGranted": {
-            "Mining": "2,425"
-        }
+            "Mining": 2425.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Sea_Slug": {
         "number": "36",
@@ -578,11 +625,12 @@
         "series": "Temple Knight",
         "releaseDate": "9 September 2002",
         "levelRequirements": {
-            "Firemaking": "30"
+            "Firemaking": 30
         },
         "experienceGranted": {
-            "Fishing": "7,175"
-        }
+            "Fishing": 7175.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Waterfall_Quest": {
         "number": "37",
@@ -595,9 +643,10 @@
         "releaseDate": "24 September 2002",
         "levelRequirements": {},
         "experienceGranted": {
-            "Attack": "13,750",
-            "Strength": "13,750"
-        }
+            "Attack": 13750.0,
+            "Strength": 13750.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Jungle_Potion": {
         "number": "39",
@@ -609,11 +658,14 @@
         "series": "N/A",
         "releaseDate": "23 October 2002",
         "levelRequirements": {
-            "Herblore": "3"
+            "Herblore": 3
         },
         "experienceGranted": {
-            "Herblore": "775"
-        }
+            "Herblore": 775.0
+        },
+        "prerequisiteQuests": [
+            "Druidic Ritual"
+        ]
     },
     "/w/The_Grand_Tree": {
         "number": "40",
@@ -625,13 +677,14 @@
         "series": "Gnome",
         "releaseDate": "12 December 2002",
         "levelRequirements": {
-            "Agility": "25"
+            "Agility": 25
         },
         "experienceGranted": {
-            "Attack": "18,400",
-            "Magic": "2,150",
-            "Agility": "7,900"
-        }
+            "Attack": 18400.0,
+            "Magic": 2150.0,
+            "Agility": 7900.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Underground_Pass": {
         "number": "42",
@@ -643,12 +696,16 @@
         "series": "Elf",
         "releaseDate": "3 March 2003",
         "levelRequirements": {
-            "Ranged": "25"
+            "Ranged": 25
         },
         "experienceGranted": {
-            "Attack": "3,000",
-            "Agility": "3,000"
-        }
+            "Attack": 3000.0,
+            "Agility": 3000.0
+        },
+        "prerequisiteQuests": [
+            "Biohazard",
+            "Plague City"
+        ]
     },
     "/w/Observatory_Quest": {
         "number": "43",
@@ -660,11 +717,12 @@
         "series": "N/A",
         "releaseDate": "17 March 2003",
         "levelRequirements": {
-            "Crafting": "10"
+            "Crafting": 10
         },
         "experienceGranted": {
-            "Crafting": "2,250"
-        }
+            "Crafting": 2250.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/The_Tourist_Trap": {
         "number": "44",
@@ -676,10 +734,11 @@
         "series": "N/A",
         "releaseDate": "14 April 2003",
         "levelRequirements": {
-            "Fletching": "10",
-            "Smithing": "20"
+            "Fletching": 10,
+            "Smithing": 20
         },
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": []
     },
     "/w/Watchtower": {
         "number": "45",
@@ -691,15 +750,16 @@
         "series": "N/A",
         "releaseDate": "7 May 2003",
         "levelRequirements": {
-            "Magic": "14",
-            "Agility": "25",
-            "Herblore": "14",
-            "Thieving": "15",
-            "Mining": "40"
+            "Magic": 14,
+            "Agility": 25,
+            "Herblore": 14,
+            "Thieving": 15,
+            "Mining": 40
         },
         "experienceGranted": {
-            "Magic": "15,250"
-        }
+            "Magic": 15250.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Dwarf_Cannon": {
         "number": "46",
@@ -712,8 +772,9 @@
         "releaseDate": "27 May 2003",
         "levelRequirements": {},
         "experienceGranted": {
-            "Crafting": "750"
-        }
+            "Crafting": 750.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Murder_Mystery": {
         "number": "47",
@@ -726,8 +787,9 @@
         "releaseDate": "9 June 2003",
         "levelRequirements": {},
         "experienceGranted": {
-            "Crafting": "1,406"
-        }
+            "Crafting": 1406.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/The_Dig_Site": {
         "number": "48",
@@ -739,14 +801,15 @@
         "series": "Mahjarrat",
         "releaseDate": "9 July 2003",
         "levelRequirements": {
-            "Agility": "10",
-            "Herblore": "10",
-            "Thieving": "25"
+            "Agility": 10,
+            "Herblore": 10,
+            "Thieving": 25
         },
         "experienceGranted": {
-            "Herblore": "2,000",
-            "Mining": "15,300"
-        }
+            "Herblore": 2000.0,
+            "Mining": 15300.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Gertrude%27s_Cat": {
         "number": "49",
@@ -759,8 +822,9 @@
         "releaseDate": "28 July 2003",
         "levelRequirements": {},
         "experienceGranted": {
-            "Cooking": "1,525"
-        }
+            "Cooking": 1525.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Legends%27_Quest": {
         "number": "50",
@@ -772,18 +836,32 @@
         "series": "N/A",
         "releaseDate": "20 August 2003",
         "levelRequirements": {
-            "Strength": "50",
-            "Prayer": "42",
-            "Magic": "56",
-            "Agility": "50",
-            "Herblore": "45",
-            "Thieving": "50",
-            "Crafting": "50",
-            "Mining": "52",
-            "Smithing": "50",
-            "Woodcutting": "50"
+            "Strength": 50,
+            "Prayer": 42,
+            "Magic": 56,
+            "Agility": 50,
+            "Herblore": 45,
+            "Thieving": 50,
+            "Crafting": 50,
+            "Mining": 52,
+            "Smithing": 50,
+            "Woodcutting": 50
         },
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "Family Crest",
+            "Heroes' Quest",
+            "Shield of Arrav",
+            "Lost City",
+            "Merlin's Crystal",
+            "Dragon Slayer I",
+            "Shilo Village",
+            "Jungle Potion",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Waterfall Quest"
+        ]
     },
     "/w/Death_Plateau": {
         "number": "56",
@@ -796,8 +874,9 @@
         "releaseDate": "9 August 2004",
         "levelRequirements": {},
         "experienceGranted": {
-            "Attack": "3,000"
-        }
+            "Attack": 3000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Eadgar%27s_Ruse": {
         "number": "60",
@@ -809,11 +888,16 @@
         "series": "Troll",
         "releaseDate": "5 October 2004",
         "levelRequirements": {
-            "Herblore": "31"
+            "Herblore": 31
         },
         "experienceGranted": {
-            "Herblore": "11,000"
-        }
+            "Herblore": 11000.0
+        },
+        "prerequisiteQuests": [
+            "Druidic Ritual",
+            "Troll Stronghold",
+            "Death Plateau"
+        ]
     },
     "/w/Big_Chompy_Bird_Hunting": {
         "number": "52",
@@ -825,15 +909,16 @@
         "series": "N/A",
         "releaseDate": "18 May 2004",
         "levelRequirements": {
-            "Ranged": "30",
-            "Fletching": "5",
-            "Cooking": "30"
+            "Ranged": 30,
+            "Fletching": 5,
+            "Cooking": 30
         },
         "experienceGranted": {
-            "Ranged": "735",
-            "Fletching": "262",
-            "Cooking": "1,470"
-        }
+            "Ranged": 735.0,
+            "Fletching": 262.0,
+            "Cooking": 1470.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Elemental_Workshop_I": {
         "number": "53",
@@ -845,14 +930,15 @@
         "series": "Elemental Workshop",
         "releaseDate": "2 June 2004",
         "levelRequirements": {
-            "Crafting": "20",
-            "Mining": "20",
-            "Smithing": "20"
+            "Crafting": 20,
+            "Mining": 20,
+            "Smithing": 20
         },
         "experienceGranted": {
-            "Crafting": "5,000",
-            "Smithing": "5,000"
-        }
+            "Crafting": 5000.0,
+            "Smithing": 5000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Nature_Spirit": {
         "number": "55",
@@ -865,10 +951,14 @@
         "releaseDate": "13 July 2004",
         "levelRequirements": {},
         "experienceGranted": {
-            "Defence": "2,000",
-            "Hitpoints": "2,000",
-            "Crafting": "3,000"
-        }
+            "Defence": 2000.0,
+            "Hitpoints": 2000.0,
+            "Crafting": 3000.0
+        },
+        "prerequisiteQuests": [
+            "Priest in Peril",
+            "The Restless Ghost"
+        ]
     },
     "/w/Priest_in_Peril": {
         "number": "54",
@@ -881,8 +971,9 @@
         "releaseDate": "29 June 2004",
         "levelRequirements": {},
         "experienceGranted": {
-            "Prayer": "1,406"
-        }
+            "Prayer": 1406.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Regicide": {
         "number": "59",
@@ -894,11 +985,16 @@
         "series": "Elf",
         "releaseDate": "20 September 2004",
         "levelRequirements": {
-            "Agility": "56"
+            "Agility": 56
         },
         "experienceGranted": {
-            "Agility": "13,750"
-        }
+            "Agility": 13750.0
+        },
+        "prerequisiteQuests": [
+            "Underground Pass",
+            "Biohazard",
+            "Plague City"
+        ]
     },
     "/w/Tai_Bwo_Wannai_Trio": {
         "number": "58",
@@ -910,16 +1006,19 @@
         "series": "N/A",
         "releaseDate": "14 September 2004",
         "levelRequirements": {
-            "Agility": "15",
-            "Fishing": "5",
-            "Cooking": "30"
+            "Agility": 15,
+            "Fishing": 5,
+            "Cooking": 30
         },
         "experienceGranted": {
-            "Attack": "2,500",
-            "Strength": "2,500",
-            "Fishing": "5,000",
-            "Cooking": "5,000"
-        }
+            "Attack": 2500.0,
+            "Strength": 2500.0,
+            "Fishing": 5000.0,
+            "Cooking": 5000.0
+        },
+        "prerequisiteQuests": [
+            "Jungle Potion"
+        ]
     },
     "/w/Troll_Stronghold": {
         "number": "57",
@@ -931,9 +1030,12 @@
         "series": "Troll",
         "releaseDate": "24 August 2004",
         "levelRequirements": {
-            "Agility": "15"
+            "Agility": 15
         },
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "Death Plateau"
+        ]
     },
     "/w/Shades_of_Mort%27ton": {
         "number": "61",
@@ -945,14 +1047,17 @@
         "series": "N/A",
         "releaseDate": "18 October 2004",
         "levelRequirements": {
-            "Herblore": "15",
-            "Crafting": "20",
-            "Firemaking": "5"
+            "Herblore": 15,
+            "Crafting": 20,
+            "Firemaking": 5
         },
         "experienceGranted": {
-            "Herblore": "2,000",
-            "Crafting": "2,000"
-        }
+            "Herblore": 2000.0,
+            "Crafting": 2000.0
+        },
+        "prerequisiteQuests": [
+            "Priest in Peril"
+        ]
     },
     "/w/The_Fremennik_Trials": {
         "number": "62",
@@ -965,17 +1070,18 @@
         "releaseDate": "2 November 2004",
         "levelRequirements": {},
         "experienceGranted": {
-            "Attack": "2,812",
-            "Strength": "2,812",
-            "Defence": "2,812",
-            "Hitpoints": "2,812",
-            "Agility": "2,812",
-            "Thieving": "2,812",
-            "Crafting": "2,812",
-            "Fletching": "2,812",
-            "Fishing": "2,812",
-            "Woodcutting": "2,812"
-        }
+            "Attack": 2812.0,
+            "Strength": 2812.0,
+            "Defence": 2812.0,
+            "Hitpoints": 2812.0,
+            "Agility": 2812.0,
+            "Thieving": 2812.0,
+            "Crafting": 2812.0,
+            "Fletching": 2812.0,
+            "Fishing": 2812.0,
+            "Woodcutting": 2812.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Horror_from_the_Deep": {
         "number": "63",
@@ -987,13 +1093,14 @@
         "series": "N/A",
         "releaseDate": "17 November 2004",
         "levelRequirements": {
-            "Agility": "35"
+            "Agility": 35
         },
         "experienceGranted": {
-            "Strength": "4,662.5",
-            "Ranged": "4,662.5",
-            "Magic": "4,662"
-        }
+            "Strength": 4662.5,
+            "Ranged": 4662.5,
+            "Magic": 4662.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Throne_of_Miscellania": {
         "number": "64",
@@ -1005,7 +1112,15 @@
         "series": "Miscellania",
         "releaseDate": "29 November 2004",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "Heroes' Quest",
+            "Shield of Arrav",
+            "Lost City",
+            "Merlin's Crystal",
+            "Dragon Slayer I",
+            "The Fremennik Trials"
+        ]
     },
     "/w/Monkey_Madness_I": {
         "number": "65",
@@ -1017,7 +1132,11 @@
         "series": "Gnome",
         "releaseDate": "6 December 2004",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "The Grand Tree",
+            "Tree Gnome Village"
+        ]
     },
     "/w/Haunted_Mine": {
         "number": "66",
@@ -1029,11 +1148,14 @@
         "series": "N/A",
         "releaseDate": "21 December 2004",
         "levelRequirements": {
-            "Crafting": "35"
+            "Crafting": 35
         },
         "experienceGranted": {
-            "Strength": "22,000"
-        }
+            "Strength": 22000.0
+        },
+        "prerequisiteQuests": [
+            "Priest in Peril"
+        ]
     },
     "/w/Troll_Romance": {
         "number": "67",
@@ -1045,12 +1167,16 @@
         "series": "N/A",
         "releaseDate": "5 January 2005",
         "levelRequirements": {
-            "Agility": "28"
+            "Agility": 28
         },
         "experienceGranted": {
-            "Strength": "4,000",
-            "Agility": "8,000"
-        }
+            "Strength": 4000.0,
+            "Agility": 8000.0
+        },
+        "prerequisiteQuests": [
+            "Troll Stronghold",
+            "Death Plateau"
+        ]
     },
     "/w/In_Search_of_the_Myreque": {
         "number": "68",
@@ -1062,15 +1188,20 @@
         "series": "Myreque",
         "releaseDate": "10 January 2005",
         "levelRequirements": {
-            "Agility": "25"
+            "Agility": 25
         },
         "experienceGranted": {
-            "Attack": "600",
-            "Strength": "600",
-            "Defence": "600",
-            "Hitpoints": "600",
-            "Crafting": "600"
-        }
+            "Attack": 600.0,
+            "Strength": 600.0,
+            "Defence": 600.0,
+            "Hitpoints": 600.0,
+            "Crafting": 600.0
+        },
+        "prerequisiteQuests": [
+            "Nature Spirit",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ]
     },
     "/w/Creature_of_Fenkenstrain": {
         "number": "69",
@@ -1082,12 +1213,16 @@
         "series": "N/A",
         "releaseDate": "31 January 2005",
         "levelRequirements": {
-            "Thieving": "25",
-            "Crafting": "20"
+            "Thieving": 25,
+            "Crafting": 20
         },
         "experienceGranted": {
-            "Thieving": "1,000"
-        }
+            "Thieving": 1000.0
+        },
+        "prerequisiteQuests": [
+            "Priest in Peril",
+            "The Restless Ghost"
+        ]
     },
     "/w/Roving_Elves": {
         "number": "70",
@@ -1100,8 +1235,15 @@
         "releaseDate": "7 February 2005",
         "levelRequirements": {},
         "experienceGranted": {
-            "Strength": "10,000"
-        }
+            "Strength": 10000.0
+        },
+        "prerequisiteQuests": [
+            "Regicide",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Waterfall Quest"
+        ]
     },
     "/w/Ghosts_Ahoy": {
         "number": "71",
@@ -1113,12 +1255,16 @@
         "series": "N/A",
         "releaseDate": "15 February 2005",
         "levelRequirements": {
-            "Agility": "25",
-            "Cooking": "20"
+            "Agility": 25,
+            "Cooking": 20
         },
         "experienceGranted": {
-            "Prayer": "2,400"
-        }
+            "Prayer": 2400.0
+        },
+        "prerequisiteQuests": [
+            "Priest in Peril",
+            "The Restless Ghost"
+        ]
     },
     "/w/One_Small_Favour": {
         "number": "72",
@@ -1130,12 +1276,18 @@
         "series": "N/A",
         "releaseDate": "28 February 2005",
         "levelRequirements": {
-            "Agility": "36",
-            "Herblore": "18",
-            "Crafting": "25",
-            "Smithing": "30"
+            "Agility": 36,
+            "Herblore": 18,
+            "Crafting": 25,
+            "Smithing": 30
         },
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "Rune Mysteries",
+            "Shilo Village",
+            "Jungle Potion",
+            "Druidic Ritual"
+        ]
     },
     "/w/Mountain_Daughter": {
         "number": "73",
@@ -1147,12 +1299,13 @@
         "series": "N/A",
         "releaseDate": "7 March 2005",
         "levelRequirements": {
-            "Agility": "20"
+            "Agility": 20
         },
         "experienceGranted": {
-            "Attack": "1,000",
-            "Prayer": "2,000"
-        }
+            "Attack": 1000.0,
+            "Prayer": 2000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Between_a_Rock...": {
         "number": "74",
@@ -1164,15 +1317,19 @@
         "series": "N/A",
         "releaseDate": "21 March 2005",
         "levelRequirements": {
-            "Defence": "30",
-            "Mining": "40",
-            "Smithing": "50"
+            "Defence": 30,
+            "Mining": 40,
+            "Smithing": 50
         },
         "experienceGranted": {
-            "Defence": "5,000",
-            "Mining": "5,000",
-            "Smithing": "5,000"
-        }
+            "Defence": 5000.0,
+            "Mining": 5000.0,
+            "Smithing": 5000.0
+        },
+        "prerequisiteQuests": [
+            "Dwarf Cannon",
+            "Fishing Contest"
+        ]
     },
     "/w/The_Feud": {
         "number": "75",
@@ -1184,11 +1341,12 @@
         "series": "N/A",
         "releaseDate": "4 April 2005",
         "levelRequirements": {
-            "Thieving": "30"
+            "Thieving": 30
         },
         "experienceGranted": {
-            "Thieving": "15,000"
-        }
+            "Thieving": 15000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/The_Golem": {
         "number": "76",
@@ -1200,13 +1358,14 @@
         "series": "N/A",
         "releaseDate": "11 April 2005",
         "levelRequirements": {
-            "Thieving": "25",
-            "Crafting": "20"
+            "Thieving": 25,
+            "Crafting": 20
         },
         "experienceGranted": {
-            "Thieving": "1,000",
-            "Crafting": "1,000"
-        }
+            "Thieving": 1000.0,
+            "Crafting": 1000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Desert_Treasure": {
         "number": "77",
@@ -1218,14 +1377,24 @@
         "series": "Mahjarrat",
         "releaseDate": "18 April 2005",
         "levelRequirements": {
-            "Magic": "50",
-            "Thieving": "53",
-            "Slayer": "10",
-            "Firemaking": "50"
+            "Magic": 50,
+            "Thieving": 53,
+            "Slayer": 10,
+            "Firemaking": 50
         },
         "experienceGranted": {
-            "Magic": "20,000"
-        }
+            "Magic": 20000.0
+        },
+        "prerequisiteQuests": [
+            "The Dig Site",
+            "Temple of Ikov",
+            "The Tourist Trap",
+            "Troll Stronghold",
+            "Death Plateau",
+            "Priest in Peril",
+            "Waterfall Quest",
+            "Plague City"
+        ]
     },
     "/w/Icthlarin%27s_Little_Helper": {
         "number": "78",
@@ -1238,10 +1407,13 @@
         "releaseDate": "26 April 2005",
         "levelRequirements": {},
         "experienceGranted": {
-            "Agility": "4,000",
-            "Thieving": "4,500",
-            "Woodcutting": "4,000"
-        }
+            "Agility": 4000.0,
+            "Thieving": 4500.0,
+            "Woodcutting": 4000.0
+        },
+        "prerequisiteQuests": [
+            "Gertrude's Cat"
+        ]
     },
     "/w/Tears_of_Guthix": {
         "number": "79",
@@ -1253,13 +1425,14 @@
         "series": "N/A",
         "releaseDate": "4 May 2005",
         "levelRequirements": {
-            "Crafting": "20",
-            "Mining": "20",
-            "Firemaking": "49"
+            "Crafting": 20,
+            "Mining": 20,
+            "Firemaking": 49
         },
         "experienceGranted": {
-            "Crafting": "1,000"
-        }
+            "Crafting": 1000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/The_Lost_Tribe": {
         "number": "81",
@@ -1271,13 +1444,17 @@
         "series": "Dorgeshuun",
         "releaseDate": "31 May 2005",
         "levelRequirements": {
-            "Agility": "13",
-            "Thieving": "13",
-            "Mining": "17"
+            "Agility": 13,
+            "Thieving": 13,
+            "Mining": 17
         },
         "experienceGranted": {
-            "Mining": "3,000"
-        }
+            "Mining": 3000.0
+        },
+        "prerequisiteQuests": [
+            "Goblin Diplomacy",
+            "Rune Mysteries"
+        ]
     },
     "/w/The_Giant_Dwarf": {
         "number": "82",
@@ -1289,19 +1466,20 @@
         "series": "Red Axe",
         "releaseDate": "31 May 2005",
         "levelRequirements": {
-            "Magic": "33",
-            "Thieving": "14",
-            "Crafting": "12",
-            "Firemaking": "16"
+            "Magic": 33,
+            "Thieving": 14,
+            "Crafting": 12,
+            "Firemaking": 16
         },
         "experienceGranted": {
-            "Magic": "1,500",
-            "Thieving": "1,500",
-            "Crafting": "2,500",
-            "Mining": "2,500",
-            "Smithing": "2,500",
-            "Firemaking": "1,500"
-        }
+            "Magic": 1500.0,
+            "Thieving": 1500.0,
+            "Crafting": 2500.0,
+            "Mining": 2500.0,
+            "Smithing": 2500.0,
+            "Firemaking": 1500.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Recruitment_Drive": {
         "number": "83",
@@ -1314,10 +1492,14 @@
         "releaseDate": "27 June 2005",
         "levelRequirements": {},
         "experienceGranted": {
-            "Prayer": "1,000",
-            "Agility": "1,000",
-            "Herblore": "1,000"
-        }
+            "Prayer": 1000.0,
+            "Agility": 1000.0,
+            "Herblore": 1000.0
+        },
+        "prerequisiteQuests": [
+            "Black Knights' Fortress",
+            "Druidic Ritual"
+        ]
     },
     "/w/Mourning%27s_End_Part_I": {
         "number": "84",
@@ -1329,13 +1511,23 @@
         "series": "Elf",
         "releaseDate": "19 July 2005",
         "levelRequirements": {
-            "Ranged": "60",
-            "Thieving": "50"
+            "Ranged": 60,
+            "Thieving": 50
         },
         "experienceGranted": {
-            "Hitpoints": "25,000",
-            "Thieving": "25,000"
-        }
+            "Hitpoints": 25000.0,
+            "Thieving": 25000.0
+        },
+        "prerequisiteQuests": [
+            "Roving Elves",
+            "Regicide",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Waterfall Quest",
+            "Big Chompy Bird Hunting",
+            "Sheep Herder"
+        ]
     },
     "/w/Forgettable_Tale...": {
         "number": "85",
@@ -1347,14 +1539,18 @@
         "series": "Red Axe",
         "releaseDate": "26 July 2005",
         "levelRequirements": {
-            "Cooking": "22",
-            "Farming": "17"
+            "Cooking": 22,
+            "Farming": 17
         },
         "experienceGranted": {
-            "Cooking": "5,000",
-            "Farming": "5,000",
-            "Skill_choice": "5,000"
-        }
+            "Cooking": 5000.0,
+            "Farming": 5000.0,
+            "Skill_choice": 5000.0
+        },
+        "prerequisiteQuests": [
+            "The Giant Dwarf",
+            "Fishing Contest"
+        ]
     },
     "/w/Garden_of_Tranquillity": {
         "number": "86",
@@ -1366,12 +1562,17 @@
         "series": "N/A",
         "releaseDate": "30 August 2005",
         "levelRequirements": {
-            "Farming": "25"
+            "Farming": 25
         },
         "experienceGranted": {
-            "Farming": "5,000",
-            "Skill_choice": "5,000"
-        }
+            "Farming": 5000.0,
+            "Skill_choice": 5000.0
+        },
+        "prerequisiteQuests": [
+            "Creature of Fenkenstrain",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ]
     },
     "/w/A_Tail_of_Two_Cats": {
         "number": "87",
@@ -1383,7 +1584,11 @@
         "series": "Dragonkin",
         "releaseDate": "26 September 2005",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "Icthlarin's Little Helper",
+            "Gertrude's Cat"
+        ]
     },
     "/w/Wanted!": {
         "number": "88",
@@ -1396,8 +1601,17 @@
         "releaseDate": "17 October 2005",
         "levelRequirements": {},
         "experienceGranted": {
-            "Slayer": "5,000"
-        }
+            "Slayer": 5000.0
+        },
+        "prerequisiteQuests": [
+            "Recruitment Drive",
+            "Black Knights' Fortress",
+            "Druidic Ritual",
+            "The Lost Tribe",
+            "Rune Mysteries",
+            "Goblin Diplomacy",
+            "Priest in Peril"
+        ]
     },
     "/w/Mourning%27s_End_Part_II": {
         "number": "89",
@@ -1410,8 +1624,19 @@
         "releaseDate": "17 October 2005",
         "levelRequirements": {},
         "experienceGranted": {
-            "Agility": "20,000"
-        }
+            "Agility": 20000.0
+        },
+        "prerequisiteQuests": [
+            "Mourning's End Part I",
+            "Roving Elves",
+            "Regicide",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Waterfall Quest",
+            "Big Chompy Bird Hunting",
+            "Sheep Herder"
+        ]
     },
     "/w/Rum_Deal": {
         "number": "90",
@@ -1423,18 +1648,24 @@
         "series": "Pirate",
         "releaseDate": "31 October 2005",
         "levelRequirements": {
-            "Prayer": "47",
-            "Crafting": "42",
-            "Slayer": "42",
-            "Fishing": "50",
-            "Farming": "40"
+            "Prayer": 47,
+            "Crafting": 42,
+            "Slayer": 42,
+            "Fishing": 50,
+            "Farming": 40
         },
         "experienceGranted": {
-            "Prayer": "7,000",
-            "Fishing": "7,000",
-            "Farming": "7,000",
-            "Skill_choice": "7,000"
-        }
+            "Prayer": 7000.0,
+            "Fishing": 7000.0,
+            "Farming": 7000.0,
+            "Skill_choice": 7000.0
+        },
+        "prerequisiteQuests": [
+            "Zogre Flesh Eaters",
+            "Big Chompy Bird Hunting",
+            "Jungle Potion",
+            "Priest in Peril"
+        ]
     },
     "/w/Shadow_of_the_Storm": {
         "number": "91",
@@ -1446,9 +1677,13 @@
         "series": "Demon Slayer",
         "releaseDate": "14 November 2005",
         "levelRequirements": {
-            "Crafting": "30"
+            "Crafting": 30
         },
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "The Golem",
+            "Demon Slayer"
+        ]
     },
     "/w/Making_History": {
         "number": "92",
@@ -1461,9 +1696,13 @@
         "releaseDate": "22 November 2005",
         "levelRequirements": {},
         "experienceGranted": {
-            "Prayer": "1,000",
-            "Crafting": "1,000"
-        }
+            "Prayer": 1000.0,
+            "Crafting": 1000.0
+        },
+        "prerequisiteQuests": [
+            "Priest in Peril",
+            "The Restless Ghost"
+        ]
     },
     "/w/Ratcatchers": {
         "number": "93",
@@ -1476,8 +1715,13 @@
         "releaseDate": "28 November 2005",
         "levelRequirements": {},
         "experienceGranted": {
-            "Thieving": "4,500"
-        }
+            "Thieving": 4500.0
+        },
+        "prerequisiteQuests": [
+            "Icthlarin's Little Helper",
+            "Gertrude's Cat",
+            "The Giant Dwarf"
+        ]
     },
     "/w/Spirits_of_the_Elid": {
         "number": "94",
@@ -1489,16 +1733,17 @@
         "series": "N/A",
         "releaseDate": "5 December 2005",
         "levelRequirements": {
-            "Ranged": "37",
-            "Magic": "33",
-            "Thieving": "37",
-            "Mining": "37"
+            "Ranged": 37,
+            "Magic": 33,
+            "Thieving": 37,
+            "Mining": 37
         },
         "experienceGranted": {
-            "Prayer": "8,000",
-            "Magic": "1,000",
-            "Thieving": "1,000"
-        }
+            "Prayer": 8000.0,
+            "Magic": 1000.0,
+            "Thieving": 1000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Devious_Minds": {
         "number": "95",
@@ -1510,15 +1755,28 @@
         "series": "N/A",
         "releaseDate": "19 December 2005",
         "levelRequirements": {
-            "Runecraft": "50",
-            "Fletching": "50",
-            "Smithing": "65"
+            "Runecraft": 50,
+            "Fletching": 50,
+            "Smithing": 65
         },
         "experienceGranted": {
-            "Runecraft": "5,000",
-            "Fletching": "5,000",
-            "Smithing": "6,500"
-        }
+            "Runecraft": 5000.0,
+            "Fletching": 5000.0,
+            "Smithing": 6500.0
+        },
+        "prerequisiteQuests": [
+            "Wanted!",
+            "Recruitment Drive",
+            "Black Knights' Fortress",
+            "Druidic Ritual",
+            "The Lost Tribe",
+            "Goblin Diplomacy",
+            "Rune Mysteries",
+            "Priest in Peril",
+            "Troll Stronghold",
+            "Death Plateau",
+            "Doric's Quest"
+        ]
     },
     "/w/The_Hand_in_the_Sand": {
         "number": "96",
@@ -1530,13 +1788,14 @@
         "series": "N/A",
         "releaseDate": "10 January 2006",
         "levelRequirements": {
-            "Thieving": "17",
-            "Crafting": "49"
+            "Thieving": 17,
+            "Crafting": 49
         },
         "experienceGranted": {
-            "Thieving": "1,000",
-            "Crafting": "9,000"
-        }
+            "Thieving": 1000.0,
+            "Crafting": 9000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Enakhra%27s_Lament": {
         "number": "97",
@@ -1548,17 +1807,18 @@
         "series": "Mahjarrat",
         "releaseDate": "23 January 2006",
         "levelRequirements": {
-            "Prayer": "43",
-            "Magic": "39",
-            "Crafting": "50",
-            "Firemaking": "45"
+            "Prayer": 43,
+            "Magic": 39,
+            "Crafting": 50,
+            "Firemaking": 45
         },
         "experienceGranted": {
-            "Magic": "7,000",
-            "Crafting": "7,000",
-            "Mining": "7,000",
-            "Firemaking": "7,000"
-        }
+            "Magic": 7000.0,
+            "Crafting": 7000.0,
+            "Mining": 7000.0,
+            "Firemaking": 7000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Cabin_Fever": {
         "number": "98",
@@ -1570,16 +1830,24 @@
         "series": "Pirate",
         "releaseDate": "7 February 2006",
         "levelRequirements": {
-            "Ranged": "40",
-            "Agility": "42",
-            "Crafting": "45",
-            "Smithing": "50"
+            "Ranged": 40,
+            "Agility": 42,
+            "Crafting": 45,
+            "Smithing": 50
         },
         "experienceGranted": {
-            "Agility": "7,000",
-            "Crafting": "7,000",
-            "Smithing": "7,000"
-        }
+            "Agility": 7000.0,
+            "Crafting": 7000.0,
+            "Smithing": 7000.0
+        },
+        "prerequisiteQuests": [
+            "Pirate's Treasure",
+            "Rum Deal",
+            "Zogre Flesh Eaters",
+            "Big Chompy Bird Hunting",
+            "Jungle Potion",
+            "Priest in Peril"
+        ]
     },
     "/w/Fairytale_I_-_Growing_Pains": {
         "number": "99",
@@ -1592,11 +1860,17 @@
         "releaseDate": "27 February 2006",
         "levelRequirements": {},
         "experienceGranted": {
-            "Attack": "2,000",
-            "Magic": "1,000",
-            "Farming": "3,500",
-            "Skill_choice": "3,500"
-        }
+            "Attack": 2000.0,
+            "Magic": 1000.0,
+            "Farming": 3500.0,
+            "Skill_choice": 3500.0
+        },
+        "prerequisiteQuests": [
+            "Lost City",
+            "Nature Spirit",
+            "The Restless Ghost",
+            "Priest in Peril"
+        ]
     },
     "/w/Recipe_for_Disaster": {
         "number": "100",
@@ -1608,7 +1882,46 @@
         "series": "N/A",
         "releaseDate": "15 March 2006",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "Cook's Assistant",
+            "Fishing Contest",
+            "Goblin Diplomacy",
+            "Big Chompy Bird Hunting",
+            "Murder Mystery",
+            "Nature Spirit",
+            "Priest in Peril",
+            "The Restless Ghost",
+            "Witch's House",
+            "Gertrude's Cat",
+            "Shadow of the Storm",
+            "Demon Slayer",
+            "The Golem",
+            "Legends' Quest",
+            "Family Crest",
+            "Heroes' Quest",
+            "Shield of Arrav",
+            "Lost City",
+            "Merlin's Crystal",
+            "Dragon Slayer I",
+            "Shilo Village",
+            "Jungle Potion",
+            "Druidic Ritual",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Monkey Madness I",
+            "The Grand Tree",
+            "Tree Gnome Village",
+            "Desert Treasure",
+            "The Dig Site",
+            "The Tourist Trap",
+            "Temple of Ikov",
+            "Waterfall Quest",
+            "Troll Stronghold",
+            "Death Plateau",
+            "Horror from the Deep"
+        ]
     },
     "/w/In_Aid_of_the_Myreque": {
         "number": "101",
@@ -1620,16 +1933,22 @@
         "series": "Myreque",
         "releaseDate": "22 March 2006",
         "levelRequirements": {
-            "Magic": "7",
-            "Crafting": "25",
-            "Mining": "15"
+            "Magic": 7,
+            "Crafting": 25,
+            "Mining": 15
         },
         "experienceGranted": {
-            "Attack": "2,000",
-            "Strength": "2,000",
-            "Defence": "2,000",
-            "Crafting": "2,000"
-        }
+            "Attack": 2000.0,
+            "Strength": 2000.0,
+            "Defence": 2000.0,
+            "Crafting": 2000.0
+        },
+        "prerequisiteQuests": [
+            "In Search of the Myreque",
+            "Nature Spirit",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ]
     },
     "/w/A_Soul%27s_Bane": {
         "number": "102",
@@ -1642,10 +1961,11 @@
         "releaseDate": "3 April 2006",
         "levelRequirements": {},
         "experienceGranted": {
-            "Attack": "40",
-            "Defence": "500",
-            "Hitpoints": "500"
-        }
+            "Attack": 40.0,
+            "Defence": 500.0,
+            "Hitpoints": 500.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Rag_and_Bone_Man_I": {
         "number": "103",
@@ -1658,9 +1978,10 @@
         "releaseDate": "10 April 2006",
         "levelRequirements": {},
         "experienceGranted": {
-            "Prayer": "500",
-            "Cooking": "500"
-        }
+            "Prayer": 500.0,
+            "Cooking": 500.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Swan_Song": {
         "number": "104",
@@ -1672,18 +1993,29 @@
         "series": "N/A",
         "releaseDate": "2 May 2006",
         "levelRequirements": {
-            "Magic": "66",
-            "Crafting": "40",
-            "Smithing": "45",
-            "Fishing": "62",
-            "Cooking": "62",
-            "Firemaking": "42"
+            "Magic": 66,
+            "Crafting": 40,
+            "Smithing": 45,
+            "Fishing": 62,
+            "Cooking": 62,
+            "Firemaking": 42
         },
         "experienceGranted": {
-            "Prayer": "10,000",
-            "Magic": "15,000",
-            "Fishing": "10,000"
-        }
+            "Prayer": 10000.0,
+            "Magic": 15000.0,
+            "Fishing": 10000.0
+        },
+        "prerequisiteQuests": [
+            "One Small Favour",
+            "Rune Mysteries",
+            "Shilo Village",
+            "Jungle Potion",
+            "Druidic Ritual",
+            "Garden of Tranquillity",
+            "Creature of Fenkenstrain",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ]
     },
     "/w/Royal_Trouble": {
         "number": "105",
@@ -1695,14 +2027,23 @@
         "series": "Miscellania",
         "releaseDate": "22 May 2006",
         "levelRequirements": {
-            "Agility": "40",
-            "Slayer": "40"
+            "Agility": 40,
+            "Slayer": 40
         },
         "experienceGranted": {
-            "Hitpoints": "5,000",
-            "Agility": "5,000",
-            "Slayer": "5,000"
-        }
+            "Hitpoints": 5000.0,
+            "Agility": 5000.0,
+            "Slayer": 5000.0
+        },
+        "prerequisiteQuests": [
+            "Throne of Miscellania",
+            "Heroes' Quest",
+            "Shield of Arrav",
+            "Lost City",
+            "Merlin's Crystal",
+            "Dragon Slayer I",
+            "The Fremennik Trials"
+        ]
     },
     "/w/Death_to_the_Dorgeshuun": {
         "number": "106",
@@ -1714,13 +2055,18 @@
         "series": "Dorgeshuun",
         "releaseDate": "21 June 2006",
         "levelRequirements": {
-            "Agility": "23",
-            "Thieving": "23"
+            "Agility": 23,
+            "Thieving": 23
         },
         "experienceGranted": {
-            "Ranged": "2,000",
-            "Thieving": "2,000"
-        }
+            "Ranged": 2000.0,
+            "Thieving": 2000.0
+        },
+        "prerequisiteQuests": [
+            "The Lost Tribe",
+            "Goblin Diplomacy",
+            "Rune Mysteries"
+        ]
     },
     "/w/Fairytale_II_-_Cure_a_Queen": {
         "number": "107",
@@ -1732,14 +2078,21 @@
         "series": "Fairytale",
         "releaseDate": "11 July 2006",
         "levelRequirements": {
-            "Herblore": "57",
-            "Thieving": "40",
-            "Farming": "49"
+            "Herblore": 57,
+            "Thieving": 40,
+            "Farming": 49
         },
         "experienceGranted": {
-            "Herblore": "3,500",
-            "Thieving": "2,500"
-        }
+            "Herblore": 3500.0,
+            "Thieving": 2500.0
+        },
+        "prerequisiteQuests": [
+            "Fairytale I - Growing Pains",
+            "Lost City",
+            "Nature Spirit",
+            "The Restless Ghost",
+            "Priest in Peril"
+        ]
     },
     "/w/Lunar_Diplomacy": {
         "number": "108",
@@ -1751,18 +2104,26 @@
         "series": "Fremennik",
         "releaseDate": "24 July 2006",
         "levelRequirements": {
-            "Defence": "40",
-            "Magic": "65",
-            "Herblore": "5",
-            "Crafting": "61",
-            "Mining": "60",
-            "Firemaking": "49",
-            "Woodcutting": "55"
+            "Defence": 40,
+            "Magic": 65,
+            "Herblore": 5,
+            "Crafting": 61,
+            "Mining": 60,
+            "Firemaking": 49,
+            "Woodcutting": 55
         },
         "experienceGranted": {
-            "Magic": "5,000",
-            "Runecraft": "5,000"
-        }
+            "Magic": 5000.0,
+            "Runecraft": 5000.0
+        },
+        "prerequisiteQuests": [
+            "The Fremennik Trials",
+            "Lost City",
+            "Rune Mysteries",
+            "Shilo Village",
+            "Jungle Potion",
+            "Druidic Ritual"
+        ]
     },
     "/w/The_Eyes_of_Glouphrie": {
         "number": "109",
@@ -1774,15 +2135,18 @@
         "series": "Gnome",
         "releaseDate": "15 August 2006",
         "levelRequirements": {
-            "Magic": "46",
-            "Construction": "5"
+            "Magic": 46,
+            "Construction": 5
         },
         "experienceGranted": {
-            "Magic": "12,000",
-            "Runecraft": "6,000",
-            "Construction": "250",
-            "Woodcutting": "2,500"
-        }
+            "Magic": 12000.0,
+            "Runecraft": 6000.0,
+            "Construction": 250.0,
+            "Woodcutting": 2500.0
+        },
+        "prerequisiteQuests": [
+            "The Grand Tree"
+        ]
     },
     "/w/Darkness_of_Hallowvale": {
         "number": "110",
@@ -1794,19 +2158,26 @@
         "series": "Myreque",
         "releaseDate": "4 September 2006",
         "levelRequirements": {
-            "Strength": "40",
-            "Magic": "33",
-            "Construction": "5",
-            "Agility": "26",
-            "Thieving": "22",
-            "Crafting": "32",
-            "Mining": "20"
+            "Strength": 40,
+            "Magic": 33,
+            "Construction": 5,
+            "Agility": 26,
+            "Thieving": 22,
+            "Crafting": 32,
+            "Mining": 20
         },
         "experienceGranted": {
-            "Construction": "2,000",
-            "Agility": "7,000",
-            "Thieving": "6,000"
-        }
+            "Construction": 2000.0,
+            "Agility": 7000.0,
+            "Thieving": 6000.0
+        },
+        "prerequisiteQuests": [
+            "In Aid of the Myreque",
+            "In Search of the Myreque",
+            "Nature Spirit",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ]
     },
     "/w/The_Slug_Menace": {
         "number": "111",
@@ -1818,16 +2189,27 @@
         "series": "Temple Knight",
         "releaseDate": "20 September 2006",
         "levelRequirements": {
-            "Runecraft": "30",
-            "Thieving": "30",
-            "Crafting": "30",
-            "Slayer": "30"
+            "Runecraft": 30,
+            "Thieving": 30,
+            "Crafting": 30,
+            "Slayer": 30
         },
         "experienceGranted": {
-            "Runecraft": "3,500",
-            "Thieving": "3,500",
-            "Crafting": "3,500"
-        }
+            "Runecraft": 3500.0,
+            "Thieving": 3500.0,
+            "Crafting": 3500.0
+        },
+        "prerequisiteQuests": [
+            "Wanted!",
+            "Recruitment Drive",
+            "Black Knights' Fortress",
+            "Druidic Ritual",
+            "The Lost Tribe",
+            "Rune Mysteries",
+            "Goblin Diplomacy",
+            "Priest in Peril",
+            "Sea Slug"
+        ]
     },
     "/w/Elemental_Workshop_II": {
         "number": "112",
@@ -1839,13 +2221,16 @@
         "series": "Elemental Workshop",
         "releaseDate": "2 October 2006",
         "levelRequirements": {
-            "Magic": "20",
-            "Smithing": "30"
+            "Magic": 20,
+            "Smithing": 30
         },
         "experienceGranted": {
-            "Crafting": "7,500",
-            "Smithing": "7,500"
-        }
+            "Crafting": 7500.0,
+            "Smithing": 7500.0
+        },
+        "prerequisiteQuests": [
+            "Elemental Workshop I"
+        ]
     },
     "/w/My_Arm%27s_Big_Adventure": {
         "number": "113",
@@ -1857,14 +2242,22 @@
         "series": "Troll",
         "releaseDate": "23 October 2006",
         "levelRequirements": {
-            "Woodcutting": "10",
-            "Farming": "29"
+            "Woodcutting": 10,
+            "Farming": 29
         },
         "experienceGranted": {
-            "Herblore": "10,000",
-            "Farming": "5,000",
-            "Skill_choice": "5,000"
-        }
+            "Herblore": 10000.0,
+            "Farming": 5000.0,
+            "Skill_choice": 5000.0
+        },
+        "prerequisiteQuests": [
+            "Eadgar's Ruse",
+            "Druidic Ritual",
+            "Troll Stronghold",
+            "Death Plateau",
+            "The Feud",
+            "Jungle Potion"
+        ]
     },
     "/w/Enlightened_Journey": {
         "number": "114",
@@ -1876,17 +2269,18 @@
         "series": "N/A",
         "releaseDate": "6 November 2006",
         "levelRequirements": {
-            "Crafting": "36",
-            "Firemaking": "20",
-            "Farming": "30"
+            "Crafting": 36,
+            "Firemaking": 20,
+            "Farming": 30
         },
         "experienceGranted": {
-            "Crafting": "2,000",
-            "Firemaking": "4,000",
-            "Woodcutting": "1,500",
-            "Farming": "3,000",
-            "Skill_choice": "3,000"
-        }
+            "Crafting": 2000.0,
+            "Firemaking": 4000.0,
+            "Woodcutting": 1500.0,
+            "Farming": 3000.0,
+            "Skill_choice": 3000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Eagles%27_Peak": {
         "number": "115",
@@ -1898,11 +2292,12 @@
         "series": "N/A",
         "releaseDate": "28 November 2006",
         "levelRequirements": {
-            "Hunter": "27"
+            "Hunter": 27
         },
         "experienceGranted": {
-            "Hunter": "2,500"
-        }
+            "Hunter": 2500.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Animal_Magnetism": {
         "number": "116",
@@ -1914,17 +2309,22 @@
         "series": "N/A",
         "releaseDate": "12 December 2006",
         "levelRequirements": {
-            "Ranged": "30",
-            "Crafting": "19",
-            "Slayer": "18",
-            "Woodcutting": "35"
+            "Ranged": 30,
+            "Crafting": 19,
+            "Slayer": 18,
+            "Woodcutting": 35
         },
         "experienceGranted": {
-            "Crafting": "1,000",
-            "Fletching": "1,000",
-            "Slayer": "1,000",
-            "Woodcutting": "2,500"
-        }
+            "Crafting": 1000.0,
+            "Fletching": 1000.0,
+            "Slayer": 1000.0,
+            "Woodcutting": 2500.0
+        },
+        "prerequisiteQuests": [
+            "The Restless Ghost",
+            "Ernest the Chicken",
+            "Priest in Peril"
+        ]
     },
     "/w/Contact!": {
         "number": "117",
@@ -1937,8 +2337,13 @@
         "releaseDate": "10 January 2007",
         "levelRequirements": {},
         "experienceGranted": {
-            "Thieving": "7,000"
-        }
+            "Thieving": 7000.0
+        },
+        "prerequisiteQuests": [
+            "Prince Ali Rescue",
+            "Icthlarin's Little Helper",
+            "Gertrude's Cat"
+        ]
     },
     "/w/Cold_War": {
         "number": "118",
@@ -1950,17 +2355,18 @@
         "series": "Penguin",
         "releaseDate": "29 January 2007",
         "levelRequirements": {
-            "Construction": "34",
-            "Agility": "30",
-            "Thieving": "15",
-            "Crafting": "30",
-            "Hunter": "10"
+            "Construction": 34,
+            "Agility": 30,
+            "Thieving": 15,
+            "Crafting": 30,
+            "Hunter": 10
         },
         "experienceGranted": {
-            "Construction": "1,500",
-            "Agility": "5,000",
-            "Crafting": "2,000"
-        }
+            "Construction": 1500.0,
+            "Agility": 5000.0,
+            "Crafting": 2000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/The_Fremennik_Isles": {
         "number": "119",
@@ -1972,13 +2378,16 @@
         "series": "Fremennik",
         "releaseDate": "6 February 2007",
         "levelRequirements": {
-            "Construction": "20"
+            "Construction": 20
         },
         "experienceGranted": {
-            "Construction": "5,000",
-            "Crafting": "5,000",
-            "Woodcutting": "10,000"
-        }
+            "Construction": 5000.0,
+            "Crafting": 5000.0,
+            "Woodcutting": 10000.0
+        },
+        "prerequisiteQuests": [
+            "The Fremennik Trials"
+        ]
     },
     "/w/The_Great_Brain_Robbery": {
         "number": "121",
@@ -1990,15 +2399,27 @@
         "series": "Pirate",
         "releaseDate": "6 March 2007",
         "levelRequirements": {
-            "Prayer": "50",
-            "Construction": "30",
-            "Crafting": "16"
+            "Prayer": 50,
+            "Construction": 30,
+            "Crafting": 16
         },
         "experienceGranted": {
-            "Prayer": "6,000",
-            "Construction": "2,000",
-            "Crafting": "3,000"
-        }
+            "Prayer": 6000.0,
+            "Construction": 2000.0,
+            "Crafting": 3000.0
+        },
+        "prerequisiteQuests": [
+            "Cabin Fever",
+            "Creature of Fenkenstrain",
+            "Cabin Fever",
+            "Pirate's Treasure",
+            "Priest in Peril",
+            "Rum Deal",
+            "Zogre Flesh Eaters",
+            "Big Chompy Bird Hunting",
+            "Jungle Potion",
+            "Recipe for Disaster"
+        ]
     },
     "/w/What_Lies_Below": {
         "number": "122",
@@ -2010,12 +2431,15 @@
         "series": "N/A",
         "releaseDate": "27 March 2007",
         "levelRequirements": {
-            "Runecraft": "35"
+            "Runecraft": 35
         },
         "experienceGranted": {
-            "Defence": "2,000",
-            "Runecraft": "8,000"
-        }
+            "Defence": 2000.0,
+            "Runecraft": 8000.0
+        },
+        "prerequisiteQuests": [
+            "Rune Mysteries"
+        ]
     },
     "/w/Olaf%27s_Quest": {
         "number": "123",
@@ -2027,12 +2451,15 @@
         "series": "N/A",
         "releaseDate": "10 April 2007",
         "levelRequirements": {
-            "Firemaking": "40",
-            "Woodcutting": "50"
+            "Firemaking": 40,
+            "Woodcutting": 50
         },
         "experienceGranted": {
-            "Defence": "12,000"
-        }
+            "Defence": 12000.0
+        },
+        "prerequisiteQuests": [
+            "The Fremennik Trials"
+        ]
     },
     "/w/Another_Slice_of_H.A.M.": {
         "number": "124",
@@ -2044,13 +2471,21 @@
         "series": "Dorgeshuun",
         "releaseDate": "24 April 2007",
         "levelRequirements": {
-            "Attack": "15",
-            "Prayer": "25"
+            "Attack": 15,
+            "Prayer": 25
         },
         "experienceGranted": {
-            "Prayer": "3,000",
-            "Mining": "3,000"
-        }
+            "Prayer": 3000.0,
+            "Mining": 3000.0
+        },
+        "prerequisiteQuests": [
+            "Death to the Dorgeshuun",
+            "The Lost Tribe",
+            "Goblin Diplomacy",
+            "Rune Mysteries",
+            "The Giant Dwarf",
+            "The Dig Site"
+        ]
     },
     "/w/Dream_Mentor": {
         "number": "125",
@@ -2063,9 +2498,21 @@
         "releaseDate": "15 May 2007",
         "levelRequirements": {},
         "experienceGranted": {
-            "Magic": "10,000",
-            "Hitpoints": "15,000"
-        }
+            "Magic": 10000.0,
+            "Hitpoints": 15000.0
+        },
+        "prerequisiteQuests": [
+            "Lunar Diplomacy",
+            "The Fremennik Trials",
+            "Lost City",
+            "Rune Mysteries",
+            "Shilo Village",
+            "Jungle Potion",
+            "Eadgar's Ruse",
+            "Druidic Ritual",
+            "Troll Stronghold",
+            "Death Plateau"
+        ]
     },
     "/w/Grim_Tales": {
         "number": "126",
@@ -2077,21 +2524,24 @@
         "series": "N/A",
         "releaseDate": "4 June 2007",
         "levelRequirements": {
-            "Agility": "59",
-            "Herblore": "52",
-            "Thieving": "58",
-            "Woodcutting": "71",
-            "Farming": "45"
+            "Agility": 59,
+            "Herblore": 52,
+            "Thieving": 58,
+            "Woodcutting": 71,
+            "Farming": 45
         },
         "experienceGranted": {
-            "Hitpoints": "5,000",
-            "Agility": "6,000",
-            "Herblore": "5,000",
-            "Thieving": "6,000",
-            "Woodcutting": "14,000",
-            "Farming": "4,000",
-            "Skill_choice": "4,000"
-        }
+            "Hitpoints": 5000.0,
+            "Agility": 6000.0,
+            "Herblore": 5000.0,
+            "Thieving": 6000.0,
+            "Woodcutting": 14000.0,
+            "Farming": 4000.0,
+            "Skill_choice": 4000.0
+        },
+        "prerequisiteQuests": [
+            "Witch's House"
+        ]
     },
     "/w/King%27s_Ransom": {
         "number": "127",
@@ -2103,13 +2553,24 @@
         "series": "Camelot",
         "releaseDate": "24 July 2007",
         "levelRequirements": {
-            "Defence": "65",
-            "Magic": "45"
+            "Defence": 65,
+            "Magic": 45
         },
         "experienceGranted": {
-            "Defence": "33,000",
-            "Magic": "5,000"
-        }
+            "Defence": 33000.0,
+            "Magic": 5000.0
+        },
+        "prerequisiteQuests": [
+            "Black Knights' Fortress",
+            "Holy Grail",
+            "Merlin's Crystal",
+            "Murder Mystery",
+            "One Small Favour",
+            "Rune Mysteries",
+            "Druidic Ritual",
+            "Shilo Village",
+            "Jungle Potion"
+        ]
     },
     "/w/Shilo_Village": {
         "number": "41",
@@ -2121,12 +2582,15 @@
         "series": "N/A",
         "releaseDate": "27 January 2003",
         "levelRequirements": {
-            "Agility": "32",
-            "Crafting": "20"
+            "Agility": 32,
+            "Crafting": 20
         },
         "experienceGranted": {
-            "Crafting": "3,875"
-        }
+            "Crafting": 3875.0
+        },
+        "prerequisiteQuests": [
+            "Jungle Potion"
+        ]
     },
     "/w/Biohazard": {
         "number": "38",
@@ -2139,8 +2603,11 @@
         "releaseDate": "23 October 2002",
         "levelRequirements": {},
         "experienceGranted": {
-            "Thieving": "1,250"
-        }
+            "Thieving": 1250.0
+        },
+        "prerequisiteQuests": [
+            "Plague City"
+        ]
     },
     "/w/Tower_of_Life": {
         "number": "120",
@@ -2152,13 +2619,14 @@
         "series": "N/A",
         "releaseDate": "19 February 2007",
         "levelRequirements": {
-            "Construction": "10"
+            "Construction": 10
         },
         "experienceGranted": {
-            "Construction": "1,000",
-            "Thieving": "500",
-            "Crafting": "500"
-        }
+            "Construction": 1000.0,
+            "Thieving": 500.0,
+            "Crafting": 500.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Rag_and_Bone_Man_II": {
         "number": "131",
@@ -2170,12 +2638,20 @@
         "series": "Rag and Bone Man",
         "releaseDate": "10 April 2006",
         "levelRequirements": {
-            "Defence": "20",
-            "Slayer": "40"
+            "Defence": 20,
+            "Slayer": 40
         },
         "experienceGranted": {
-            "Prayer": "5,000"
-        }
+            "Prayer": 5000.0
+        },
+        "prerequisiteQuests": [
+            "Rag and Bone Man I",
+            "Horror from the Deep",
+            "The Fremennik Trials",
+            "Creature of Fenkenstrain",
+            "Zogre Flesh Eaters",
+            "Waterfall Quest"
+        ]
     },
     "/w/Land_of_the_Goblins": {
         "number": "151",
@@ -2187,17 +2663,27 @@
         "series": "Dorgeshuun",
         "releaseDate": "9 February 2022",
         "levelRequirements": {
-            "Agility": "38",
-            "Herblore": "48",
-            "Thieving": "45",
-            "Fishing": "40"
+            "Agility": 38,
+            "Herblore": 48,
+            "Thieving": 45,
+            "Fishing": 40
         },
         "experienceGranted": {
-            "Agility": "8,000\n",
-            "Herblore": "8,000\n",
-            "Thieving": "8,000\n",
-            "Fishing": "8,000\n"
-        }
+            "Agility": 8000.0,
+            "Herblore": 8000.0,
+            "Thieving": 8000.0,
+            "Fishing": 8000.0
+        },
+        "prerequisiteQuests": [
+            "Another Slice of H.A.M.",
+            "Death to the Dorgeshuun",
+            "The Lost Tribe",
+            "Goblin Diplomacy",
+            "Rune Mysteries",
+            "The Giant Dwarf",
+            "The Dig Site",
+            "Fishing Contest"
+        ]
     },
     "/w/Zogre_Flesh_Eaters": {
         "number": "80",
@@ -2209,15 +2695,19 @@
         "series": "N/A",
         "releaseDate": "17 May 2005",
         "levelRequirements": {
-            "Ranged": "30",
-            "Herblore": "8",
-            "Smithing": "4"
+            "Ranged": 30,
+            "Herblore": 8,
+            "Smithing": 4
         },
         "experienceGranted": {
-            "Ranged": "2,000",
-            "Herblore": "2,000",
-            "Fletching": "2,000"
-        }
+            "Ranged": 2000.0,
+            "Herblore": 2000.0,
+            "Fletching": 2000.0
+        },
+        "prerequisiteQuests": [
+            "Big Chompy Bird Hunting",
+            "Jungle Potion"
+        ]
     },
     "/w/Monkey_Madness_II": {
         "number": "128",
@@ -2229,19 +2719,29 @@
         "series": "Gnome",
         "releaseDate": "6 May 2016",
         "levelRequirements": {
-            "Agility": "55",
-            "Thieving": "55",
-            "Crafting": "70",
-            "Slayer": "69",
-            "Hunter": "60",
-            "Firemaking": "60"
+            "Agility": 55,
+            "Thieving": 55,
+            "Crafting": 70,
+            "Slayer": 69,
+            "Hunter": 60,
+            "Firemaking": 60
         },
         "experienceGranted": {
-            "Agility": "20,000",
-            "Thieving": "15,000",
-            "Slayer": "25,000",
-            "Hunter": "15,000"
-        }
+            "Agility": 20000.0,
+            "Thieving": 15000.0,
+            "Slayer": 25000.0,
+            "Hunter": 15000.0
+        },
+        "prerequisiteQuests": [
+            "Enlightened Journey",
+            "The Eyes of Glouphrie",
+            "Monkey Madness I",
+            "The Grand Tree",
+            "Tree Gnome Village",
+            "Troll Stronghold",
+            "Death Plateau",
+            "Watchtower"
+        ]
     },
     "/w/Client_of_Kourend": {
         "number": "130",
@@ -2253,7 +2753,10 @@
         "series": "Great Kourend",
         "releaseDate": "20 April 2017",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "X Marks the Spot"
+        ]
     },
     "/w/The_Queen_of_Thieves": {
         "number": "133",
@@ -2266,8 +2769,12 @@
         "releaseDate": "9 November 2017",
         "levelRequirements": {},
         "experienceGranted": {
-            "Thieving": "2,000"
-        }
+            "Thieving": 2000.0
+        },
+        "prerequisiteQuests": [
+            "Client of Kourend",
+            "X Marks the Spot"
+        ]
     },
     "/w/Bone_Voyage": {
         "number": "132",
@@ -2279,7 +2786,10 @@
         "series": "N/A",
         "releaseDate": "7 September 2017",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "The Dig Site"
+        ]
     },
     "/w/Dragon_Slayer_II": {
         "number": "136",
@@ -2291,21 +2801,56 @@
         "series": "Dragonkin",
         "releaseDate": "4 January 2018",
         "levelRequirements": {
-            "Magic": "75",
-            "Construction": "50",
-            "Hitpoints": "50",
-            "Agility": "60",
-            "Thieving": "60",
-            "Crafting": "62",
-            "Mining": "68",
-            "Smithing": "70"
+            "Magic": 75,
+            "Construction": 50,
+            "Hitpoints": 50,
+            "Agility": 60,
+            "Thieving": 60,
+            "Crafting": 62,
+            "Mining": 68,
+            "Smithing": 70
         },
         "experienceGranted": {
-            "Agility": "15,000",
-            "Thieving": "15,000",
-            "Mining": "18,000",
-            "Smithing": "25,000"
-        }
+            "Agility": 15000.0,
+            "Thieving": 15000.0,
+            "Mining": 18000.0,
+            "Smithing": 25000.0
+        },
+        "prerequisiteQuests": [
+            "Legends' Quest",
+            "Family Crest",
+            "Heroes' Quest",
+            "Shield of Arrav",
+            "Lost City",
+            "Merlin's Crystal",
+            "Dragon Slayer I",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Waterfall Quest",
+            "Dream Mentor",
+            "Lunar Diplomacy",
+            "The Fremennik Trials",
+            "Rune Mysteries",
+            "Shilo Village",
+            "Jungle Potion",
+            "Eadgar's Ruse",
+            "Druidic Ritual",
+            "Troll Stronghold",
+            "Death Plateau",
+            "A Tail of Two Cats",
+            "Icthlarin's Little Helper",
+            "Gertrude's Cat",
+            "Animal Magnetism",
+            "Ernest the Chicken",
+            "Priest in Peril",
+            "The Restless Ghost",
+            "Ghosts Ahoy",
+            "Bone Voyage",
+            "The Dig Site",
+            "Client of Kourend",
+            "X Marks the Spot"
+        ]
     },
     "/w/The_Depths_of_Despair": {
         "number": "134",
@@ -2317,11 +2862,15 @@
         "series": "Great Kourend",
         "releaseDate": "9 November 2017",
         "levelRequirements": {
-            "Agility": "18"
+            "Agility": 18
         },
         "experienceGranted": {
-            "Agility": "1,500"
-        }
+            "Agility": 1500.0
+        },
+        "prerequisiteQuests": [
+            "Client of Kourend",
+            "X Marks the Spot"
+        ]
     },
     "/w/Recipe_for_Disaster/Another_Cook%27s_Quest": {
         "number": "100.1",
@@ -2333,9 +2882,12 @@
         "series": "N/A",
         "releaseDate": "15 March 2006",
         "levelRequirements": {
-            "Cooking": "10"
+            "Cooking": 10
         },
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "Cook's Assistant"
+        ]
     },
     "/w/Recipe_for_Disaster/Freeing_the_Goblin_generals": {
         "number": "100.3",
@@ -2348,11 +2900,16 @@
         "releaseDate": "15 March 2006",
         "levelRequirements": {},
         "experienceGranted": {
-            "Crafting": "1,000",
-            "Cooking": "1,000",
-            "Farming": "1,000",
-            "Skill_choice": "1,000"
-        }
+            "Crafting": 1000.0,
+            "Cooking": 1000.0,
+            "Farming": 1000.0,
+            "Skill_choice": 1000.0
+        },
+        "prerequisiteQuests": [
+            "Recipe for Disaster/Another Cook's Quest",
+            "Cook's Assistant",
+            "Goblin Diplomacy"
+        ]
     },
     "/w/Recipe_for_Disaster/Freeing_the_Mountain_Dwarf": {
         "number": "100.2",
@@ -2365,9 +2922,14 @@
         "releaseDate": "15 March 2006",
         "levelRequirements": {},
         "experienceGranted": {
-            "Slayer": "1,000",
-            "Cooking": "1,000"
-        }
+            "Slayer": 1000.0,
+            "Cooking": 1000.0
+        },
+        "prerequisiteQuests": [
+            "Recipe for Disaster/Another Cook's Quest",
+            "Cook's Assistant",
+            "Fishing Contest"
+        ]
     },
     "/w/Recipe_for_Disaster/Freeing_Evil_Dave": {
         "number": "100.6",
@@ -2379,11 +2941,19 @@
         "series": "N/A",
         "releaseDate": "15 March 2006",
         "levelRequirements": {
-            "Cooking": "25"
+            "Cooking": 25
         },
         "experienceGranted": {
-            "Cooking": "7,000"
-        }
+            "Cooking": 7000.0
+        },
+        "prerequisiteQuests": [
+            "Gertrude's Cat",
+            "Recipe for Disaster/Another Cook's Quest",
+            "Cook's Assistant",
+            "Shadow of the Storm",
+            "Demon Slayer",
+            "The Golem"
+        ]
     },
     "/w/Recipe_for_Disaster/Freeing_Pirate_Pete": {
         "number": "100.4",
@@ -2395,14 +2965,18 @@
         "series": "N/A",
         "releaseDate": "15 March 2006",
         "levelRequirements": {
-            "Cooking": "31"
+            "Cooking": 31
         },
         "experienceGranted": {
-            "Crafting": "1,000",
-            "Smithing": "1,000",
-            "Fishing": "1,000",
-            "Cooking": "1,000"
-        }
+            "Crafting": 1000.0,
+            "Smithing": 1000.0,
+            "Fishing": 1000.0,
+            "Cooking": 1000.0
+        },
+        "prerequisiteQuests": [
+            "Recipe for Disaster/Another Cook's Quest",
+            "Cook's Assistant"
+        ]
     },
     "/w/Recipe_for_Disaster/Freeing_the_Lumbridge_Guide": {
         "number": "100.5",
@@ -2414,12 +2988,25 @@
         "series": "N/A",
         "releaseDate": "15 March 2006",
         "levelRequirements": {
-            "Cooking": "40"
+            "Cooking": 40
         },
         "experienceGranted": {
-            "Magic": "2,500",
-            "Cooking": "2,500"
-        }
+            "Magic": 2500.0,
+            "Cooking": 2500.0
+        },
+        "prerequisiteQuests": [
+            "Big Chompy Bird Hunting",
+            "Biohazard",
+            "Plague City",
+            "Demon Slayer",
+            "Murder Mystery",
+            "Nature Spirit",
+            "Priest in Peril",
+            "The Restless Ghost",
+            "Recipe for Disaster/Another Cook's Quest",
+            "Cook's Assistant",
+            "Witch's House"
+        ]
     },
     "/w/Recipe_for_Disaster/Freeing_Sir_Amik_Varze": {
         "number": "100.8",
@@ -2432,9 +3019,26 @@
         "releaseDate": "15 March 2006",
         "levelRequirements": {},
         "experienceGranted": {
-            "Hitpoints": "4,000",
-            "Cooking": "4,000"
-        }
+            "Hitpoints": 4000.0,
+            "Cooking": 4000.0
+        },
+        "prerequisiteQuests": [
+            "Legends' Quest",
+            "Family Crest",
+            "Heroes' Quest",
+            "Shield of Arrav",
+            "Lost City",
+            "Merlin's Crystal",
+            "Dragon Slayer I",
+            "Recipe for Disaster/Another Cook's Quest",
+            "Cook's Assistant",
+            "Shilo Village",
+            "Jungle Potion",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Waterfall Quest"
+        ]
     },
     "/w/Recipe_for_Disaster/Freeing_King_Awowogei": {
         "number": "100.7",
@@ -2446,13 +3050,20 @@
         "series": "N/A",
         "releaseDate": "15 March 2006",
         "levelRequirements": {
-            "Agility": "48",
-            "Cooking": "70"
+            "Agility": 48,
+            "Cooking": 70
         },
         "experienceGranted": {
-            "Agility": "10,000",
-            "Cooking": "10,000"
-        }
+            "Agility": 10000.0,
+            "Cooking": 10000.0
+        },
+        "prerequisiteQuests": [
+            "Monkey Madness I",
+            "The Grand Tree",
+            "Tree Gnome Village",
+            "Recipe for Disaster/Another Cook's Quest",
+            "Cook's Assistant"
+        ]
     },
     "/w/Recipe_for_Disaster/Freeing_Skrach_Uglogwee": {
         "number": "100.9",
@@ -2464,15 +3075,20 @@
         "series": "N/A",
         "releaseDate": "15 March 2006",
         "levelRequirements": {
-            "Cooking": "41",
-            "Firemaking": "20"
+            "Cooking": 41,
+            "Firemaking": 20
         },
         "experienceGranted": {
-            "Ranged": "1,500",
-            "Crafting": "1,500",
-            "Cooking": "1,500",
-            "Woodcutting": "1,500"
-        }
+            "Ranged": 1500.0,
+            "Crafting": 1500.0,
+            "Cooking": 1500.0,
+            "Woodcutting": 1500.0
+        },
+        "prerequisiteQuests": [
+            "Big Chompy Bird Hunting",
+            "Recipe for Disaster/Another Cook's Quest",
+            "Cook's Assistant"
+        ]
     },
     "/w/A_Taste_of_Hope": {
         "number": "138",
@@ -2484,11 +3100,19 @@
         "series": "Myreque",
         "releaseDate": "24 May 2018",
         "levelRequirements": {
-            "Attack": "40",
-            "Crafting": "48",
-            "Slayer": "38"
+            "Attack": 40,
+            "Crafting": 48,
+            "Slayer": 38
         },
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "Darkness of Hallowvale",
+            "In Aid of the Myreque",
+            "In Search of the Myreque",
+            "Nature Spirit",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ]
     },
     "/w/Tale_of_the_Righteous": {
         "number": "137",
@@ -2500,10 +3124,14 @@
         "series": "Great Kourend",
         "releaseDate": "19 April 2018",
         "levelRequirements": {
-            "Strength": "16",
-            "Mining": "10"
+            "Strength": 16,
+            "Mining": 10
         },
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "Client of Kourend",
+            "X Marks the Spot"
+        ]
     },
     "/w/Making_Friends_with_My_Arm": {
         "number": "139",
@@ -2515,17 +3143,36 @@
         "series": "Troll",
         "releaseDate": "6 September 2018",
         "levelRequirements": {
-            "Construction": "35",
-            "Agility": "68",
-            "Mining": "72",
-            "Firemaking": "66"
+            "Construction": 35,
+            "Agility": 68,
+            "Mining": 72,
+            "Firemaking": 66
         },
         "experienceGranted": {
-            "Construction": "2,000",
-            "Agility": "10,000",
-            "Mining": "10,000",
-            "Firemaking": "5,000"
-        }
+            "Construction": 2000.0,
+            "Agility": 10000.0,
+            "Mining": 10000.0,
+            "Firemaking": 5000.0
+        },
+        "prerequisiteQuests": [
+            "My Arm's Big Adventure",
+            "Eadgar's Ruse",
+            "Druidic Ritual",
+            "Troll Stronghold",
+            "Death Plateau",
+            "The Feud",
+            "Jungle Potion",
+            "Swan Song",
+            "One Small Favour",
+            "Rune Mysteries",
+            "Shilo Village",
+            "Garden of Tranquillity",
+            "Creature of Fenkenstrain",
+            "Priest in Peril",
+            "The Restless Ghost",
+            "Cold War",
+            "Romeo & Juliet"
+        ]
     },
     "/w/Recipe_for_Disaster/Defeating_the_Culinaromancer": {
         "number": "100.10",
@@ -2537,7 +3184,18 @@
         "series": "N/A",
         "releaseDate": "15 March 2006",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "Desert Treasure",
+            "The Dig Site",
+            "Temple of Ikov",
+            "The Tourist Trap",
+            "Troll Stronghold",
+            "Death Plateau",
+            "Priest in Peril",
+            "Waterfall Quest",
+            "Horror from the Deep"
+        ]
     },
     "/w/Song_of_the_Elves": {
         "number": "143",
@@ -2549,26 +3207,41 @@
         "series": "Elf",
         "releaseDate": "25 July 2019",
         "levelRequirements": {
-            "Construction": "70",
-            "Agility": "70",
-            "Herblore": "70",
-            "Hunter": "70",
-            "Mining": "70",
-            "Smithing": "70",
-            "Woodcutting": "70",
-            "Farming": "70"
+            "Construction": 70,
+            "Agility": 70,
+            "Herblore": 70,
+            "Hunter": 70,
+            "Mining": 70,
+            "Smithing": 70,
+            "Woodcutting": 70,
+            "Farming": 70
         },
         "experienceGranted": {
-            "Construction": "20,000",
-            "Agility": "20,000",
-            "Herblore": "20,000",
-            "Hunter": "20,000",
-            "Mining": "20,000",
-            "Smithing": "20,000",
-            "Woodcutting": "20,000",
-            "Farming": "20,000",
-            "Skill_choice": "20,000"
-        }
+            "Construction": 20000.0,
+            "Agility": 20000.0,
+            "Herblore": 20000.0,
+            "Hunter": 20000.0,
+            "Mining": 20000.0,
+            "Smithing": 20000.0,
+            "Woodcutting": 20000.0,
+            "Farming": 20000.0,
+            "Skill_choice": 20000.0
+        },
+        "prerequisiteQuests": [
+            "Mourning's End Part II",
+            "Mourning's End Part I",
+            "Big Chompy Bird Hunting",
+            "Sheep Herder",
+            "Roving Elves",
+            "Waterfall Quest",
+            "Regicide",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Making History",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ]
     },
     "/w/The_Ascent_of_Arceuus": {
         "number": "141",
@@ -2580,12 +3253,16 @@
         "series": "Great Kourend",
         "releaseDate": "10 January 2019",
         "levelRequirements": {
-            "Hunter": "12"
+            "Hunter": 12
         },
         "experienceGranted": {
-            "Runecraft": "500",
-            "Hunter": "1,500"
-        }
+            "Runecraft": 500.0,
+            "Hunter": 1500.0
+        },
+        "prerequisiteQuests": [
+            "Client of Kourend",
+            "X Marks the Spot"
+        ]
     },
     "/w/The_Forsaken_Tower": {
         "number": "140",
@@ -2598,9 +3275,13 @@
         "releaseDate": "10 January 2019",
         "levelRequirements": {},
         "experienceGranted": {
-            "Mining": "500",
-            "Smithing": "500"
-        }
+            "Mining": 500.0,
+            "Smithing": 500.0
+        },
+        "prerequisiteQuests": [
+            "Client of Kourend",
+            "X Marks the Spot"
+        ]
     },
     "/w/The_Fremennik_Exiles": {
         "number": "144",
@@ -2612,17 +3293,33 @@
         "series": "Fremennik",
         "releaseDate": "26 September 2019",
         "levelRequirements": {
-            "Runecraft": "55",
-            "Crafting": "65",
-            "Slayer": "60",
-            "Smithing": "60",
-            "Fishing": "60"
+            "Runecraft": 55,
+            "Crafting": 65,
+            "Slayer": 60,
+            "Smithing": 60,
+            "Fishing": 60
         },
         "experienceGranted": {
-            "Runecraft": "5,000",
-            "Crafting": "15,000",
-            "Slayer": "15,000"
-        }
+            "Runecraft": 5000.0,
+            "Crafting": 15000.0,
+            "Slayer": 15000.0
+        },
+        "prerequisiteQuests": [
+            "The Fremennik Isles",
+            "The Fremennik Trials",
+            "Lunar Diplomacy",
+            "Lost City",
+            "Rune Mysteries",
+            "Shilo Village",
+            "Jungle Potion",
+            "Druidic Ritual",
+            "Mountain Daughter",
+            "Heroes' Quest",
+            "Dragon Slayer I",
+            "Lost City",
+            "Merlin's Crystal",
+            "Shield of Arrav"
+        ]
     },
     "/w/Sins_of_the_Father": {
         "number": "145",
@@ -2634,15 +3331,25 @@
         "series": "Myreque",
         "releaseDate": "4 June 2020",
         "levelRequirements": {
-            "Attack": "50",
-            "Magic": "49",
-            "Agility": "52",
-            "Crafting": "56",
-            "Fletching": "60",
-            "Slayer": "50",
-            "Woodcutting": "62"
+            "Attack": 50,
+            "Magic": 49,
+            "Agility": 52,
+            "Crafting": 56,
+            "Fletching": 60,
+            "Slayer": 50,
+            "Woodcutting": 62
         },
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "Vampyre Slayer",
+            "A Taste of Hope",
+            "Darkness of Hallowvale",
+            "In Aid of the Myreque",
+            "In Search of the Myreque",
+            "Nature Spirit",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ]
     },
     "/w/A_Kingdom_Divided": {
         "number": "150",
@@ -2654,15 +3361,24 @@
         "series": "Great Kourend",
         "releaseDate": "16 June 2021",
         "levelRequirements": {
-            "Magic": "35",
-            "Agility": "54",
-            "Herblore": "50",
-            "Thieving": "52",
-            "Crafting": "38",
-            "Mining": "42",
-            "Woodcutting": "52"
+            "Magic": 35,
+            "Agility": 54,
+            "Herblore": 50,
+            "Thieving": 52,
+            "Crafting": 38,
+            "Mining": 42,
+            "Woodcutting": 52
         },
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "The Depths of Despair",
+            "The Queen of Thieves",
+            "The Ascent of Arceuus",
+            "The Forsaken Tower",
+            "Tale of the Righteous",
+            "Client of Kourend",
+            "X Marks the Spot"
+        ]
     },
     "/w/A_Porcine_of_Interest": {
         "number": "146",
@@ -2675,8 +3391,9 @@
         "releaseDate": "10 September 2020",
         "levelRequirements": {},
         "experienceGranted": {
-            "Slayer": "1,000\n"
-        }
+            "Slayer": 1000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/Getting_Ahead": {
         "number": "147",
@@ -2688,12 +3405,13 @@
         "series": "Twisted Tales",
         "releaseDate": "25 November 2020",
         "levelRequirements": {
-            "Construction": "26"
+            "Construction": 26
         },
         "experienceGranted": {
-            "Construction": "3,200",
-            "Crafting": "4,000"
-        }
+            "Construction": 3200.0,
+            "Crafting": 4000.0
+        },
+        "prerequisiteQuests": []
     },
     "/w/A_Night_at_the_Theatre": {
         "number": "149",
@@ -2705,7 +3423,16 @@
         "series": "N/A",
         "releaseDate": "3 June 2021",
         "levelRequirements": {},
-        "experienceGranted": {}
+        "experienceGranted": {},
+        "prerequisiteQuests": [
+            "A Taste of Hope",
+            "Darkness of Hallowvale",
+            "In Aid of the Myreque",
+            "In Search of the Myreque",
+            "Nature Spirit",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ]
     },
     "/w/Beneath_Cursed_Sands": {
         "number": "153",
@@ -2717,13 +3444,19 @@
         "series": "Kharidian",
         "releaseDate": "27 April 2022",
         "levelRequirements": {
-            "Agility": "62",
-            "Crafting": "55",
-            "Firemaking": "55"
+            "Agility": 62,
+            "Crafting": 55,
+            "Firemaking": 55
         },
         "experienceGranted": {
-            "Agility": "20,000"
-        }
+            "Agility": 20000.0
+        },
+        "prerequisiteQuests": [
+            "Contact!",
+            "Prince Ali Rescue",
+            "Icthlarin's Little Helper",
+            "Gertrude's Cat"
+        ]
     },
     "/w/Temple_of_the_Eye": {
         "number": "152",
@@ -2735,11 +3468,14 @@
         "series": "Order of Wizards",
         "releaseDate": "23 March 2022",
         "levelRequirements": {
-            "Runecraft": "10"
+            "Runecraft": 10
         },
         "experienceGranted": {
-            "Runecraft": "5,000"
-        }
+            "Runecraft": 5000.0
+        },
+        "prerequisiteQuests": [
+            "Rune Mysteries"
+        ]
     },
     "/w/Sleeping_Giants": {
         "number": "154",
@@ -2752,7 +3488,8 @@
         "releaseDate": "8 June 2022",
         "levelRequirements": {},
         "experienceGranted": {
-            "Smithing": "6,000"
-        }
+            "Smithing": 6000.0
+        },
+        "prerequisiteQuests": []
     }
 }
