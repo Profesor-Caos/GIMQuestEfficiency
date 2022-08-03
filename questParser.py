@@ -2,7 +2,7 @@ from ast import pattern
 from sre_parse import FLAGS
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
-from skills import skills
+from GameConcepts.skills import skills
 
 quests = {}
 
@@ -139,5 +139,5 @@ import json
 questsJSON = json.dumps(quests, indent=4, separators=(',', ': '))
 
 import io
-with io.open('quests.json', 'wt') as f:
+with io.open('./Data/quests.json', 'wt') as f:
     f.write(questsJSON)

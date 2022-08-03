@@ -1,7 +1,7 @@
 import json
 import re
-from player import Player
-import levels
+from GameConcepts.player import Player
+import GameConcepts.levels as levels
 
 quests = None
 player = Player()

@@ -1,5 +1,5 @@
-from skills import skills
-import levels
+from GameConcepts.skills import skills
+import GameConcepts.levels as levels
 
 class Player:
     def __init__(self):

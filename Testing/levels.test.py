@@ -1,5 +1,5 @@
-import levels
-import test
+import GameConcepts.levels as levels
+import Testing.test as test
 
 testCases = [
     { "input": 0, "expected": 0 },
