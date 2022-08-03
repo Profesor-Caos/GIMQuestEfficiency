@@ -28,7 +28,7 @@ def ExtractQuestsFromTableList(quests, tbody):
                 case 3:
                     quest["length"] = td.text.strip()
                 case 4:
-                    quest["questPoints"] = td.text.strip()
+                    quest["questPoints"] = int(td.text.strip())
                 case 5:
                     quest["series"] = td.text.strip()
                 case 6:
