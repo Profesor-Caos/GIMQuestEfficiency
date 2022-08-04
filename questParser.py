@@ -1,5 +1,3 @@
-from ast import pattern
-from sre_parse import FLAGS
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
 from GameConcepts.skills import skills
@@ -41,7 +39,7 @@ def ExtractQuestsFromTableList(quests, tbody):
             quests[quest["href"]] = quest
 
 def GetXpRewardsForSkill(skillName, soup):
-    el = soup.find(id=skill)
+    el = soup.find(id=skillName)
     tbody = el.find_next("tbody")
     for tr in tbody.findAll('tr'):
         index = 0
@@ -108,7 +106,9 @@ soup = GetSoup("https://oldschool.runescape.wiki/w/Quest_experience_rewards")
 
 for skill in skills:
     GetXpRewardsForSkill(skill, soup)
-GetXpRewardsForSkill("Skill_choice", soup)
+# Just commenting this out because it's difficult to deal with
+# since the skill options vary and the amounts are harder to parse
+# GetXpRewardsForSkill("Skill_choice", soup)
 
 import requests
 
@@ -134,6 +134,7 @@ for page in result['query']['results']:
             continue
         quest["prerequisiteQuests"].append(match)
 
+quests.pop("/w/Recipe_for_Disaster", None) # Deal with the subquests instead of the overall one
 
 import json
 questsJSON = json.dumps(quests, indent=4, separators=(',', ': '))

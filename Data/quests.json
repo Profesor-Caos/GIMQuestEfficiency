@@ -1544,8 +1544,7 @@
         },
         "experienceGranted": {
             "Cooking": 5000.0,
-            "Farming": 5000.0,
-            "Skill_choice": 5000.0
+            "Farming": 5000.0
         },
         "prerequisiteQuests": [
             "The Giant Dwarf",
@@ -1565,8 +1564,7 @@
             "Farming": 25
         },
         "experienceGranted": {
-            "Farming": 5000.0,
-            "Skill_choice": 5000.0
+            "Farming": 5000.0
         },
         "prerequisiteQuests": [
             "Creature of Fenkenstrain",
@@ -1657,8 +1655,7 @@
         "experienceGranted": {
             "Prayer": 7000.0,
             "Fishing": 7000.0,
-            "Farming": 7000.0,
-            "Skill_choice": 7000.0
+            "Farming": 7000.0
         },
         "prerequisiteQuests": [
             "Zogre Flesh Eaters",
@@ -1862,65 +1859,13 @@
         "experienceGranted": {
             "Attack": 2000.0,
             "Magic": 1000.0,
-            "Farming": 3500.0,
-            "Skill_choice": 3500.0
+            "Farming": 3500.0
         },
         "prerequisiteQuests": [
             "Lost City",
             "Nature Spirit",
             "The Restless Ghost",
             "Priest in Peril"
-        ]
-    },
-    "/w/Recipe_for_Disaster": {
-        "number": "100",
-        "name": "Recipe for Disaster",
-        "href": "/w/Recipe_for_Disaster",
-        "difficulty": "Special",
-        "length": "Very Long",
-        "questPoints": 10,
-        "series": "N/A",
-        "releaseDate": "15 March 2006",
-        "levelRequirements": {},
-        "experienceGranted": {},
-        "prerequisiteQuests": [
-            "Cook's Assistant",
-            "Fishing Contest",
-            "Goblin Diplomacy",
-            "Big Chompy Bird Hunting",
-            "Murder Mystery",
-            "Nature Spirit",
-            "Priest in Peril",
-            "The Restless Ghost",
-            "Witch's House",
-            "Gertrude's Cat",
-            "Shadow of the Storm",
-            "Demon Slayer",
-            "The Golem",
-            "Legends' Quest",
-            "Family Crest",
-            "Heroes' Quest",
-            "Shield of Arrav",
-            "Lost City",
-            "Merlin's Crystal",
-            "Dragon Slayer I",
-            "Shilo Village",
-            "Jungle Potion",
-            "Druidic Ritual",
-            "Underground Pass",
-            "Biohazard",
-            "Plague City",
-            "Monkey Madness I",
-            "The Grand Tree",
-            "Tree Gnome Village",
-            "Desert Treasure",
-            "The Dig Site",
-            "The Tourist Trap",
-            "Temple of Ikov",
-            "Waterfall Quest",
-            "Troll Stronghold",
-            "Death Plateau",
-            "Horror from the Deep"
         ]
     },
     "/w/In_Aid_of_the_Myreque": {
@@ -2247,8 +2192,7 @@
         },
         "experienceGranted": {
             "Herblore": 10000.0,
-            "Farming": 5000.0,
-            "Skill_choice": 5000.0
+            "Farming": 5000.0
         },
         "prerequisiteQuests": [
             "Eadgar's Ruse",
@@ -2277,8 +2221,7 @@
             "Crafting": 2000.0,
             "Firemaking": 4000.0,
             "Woodcutting": 1500.0,
-            "Farming": 3000.0,
-            "Skill_choice": 3000.0
+            "Farming": 3000.0
         },
         "prerequisiteQuests": []
     },
@@ -2536,8 +2479,7 @@
             "Herblore": 5000.0,
             "Thieving": 6000.0,
             "Woodcutting": 14000.0,
-            "Farming": 4000.0,
-            "Skill_choice": 4000.0
+            "Farming": 4000.0
         },
         "prerequisiteQuests": [
             "Witch's House"
@@ -2902,8 +2844,7 @@
         "experienceGranted": {
             "Crafting": 1000.0,
             "Cooking": 1000.0,
-            "Farming": 1000.0,
-            "Skill_choice": 1000.0
+            "Farming": 1000.0
         },
         "prerequisiteQuests": [
             "Recipe for Disaster/Another Cook's Quest",
@@ -3224,8 +3165,7 @@
             "Mining": 20000.0,
             "Smithing": 20000.0,
             "Woodcutting": 20000.0,
-            "Farming": 20000.0,
-            "Skill_choice": 20000.0
+            "Farming": 20000.0
         },
         "prerequisiteQuests": [
             "Mourning's End Part II",
