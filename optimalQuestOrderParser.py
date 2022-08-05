@@ -25,7 +25,7 @@ for tr in tbody.findAll('tr'):
     if hasattr(td.next, "attrs"):
         href = td.next.attrs["href"]
         if href in quests:
-            output += f"\t\"{name}\"\n"
+            output += f"\t\"{name}\",\n"
             quests.pop(href, None) #prevents multiple entries for quests that occupy multiple rows
 
 output += "]"

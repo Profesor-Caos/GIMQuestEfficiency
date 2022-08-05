@@ -14,7 +14,7 @@ osirisQuestingOrder = ["X Marks the Spot", "Monk's Friend", "Sheep Herder", "Sea
 
 output = "osirisQuestingOrder = [\n"
 for string in osirisQuestingOrder:
-    output += f"\t\"{string}\"\n"
+    output += f"\t\"{string}\",\n"
 output += "]"
 
 import io
